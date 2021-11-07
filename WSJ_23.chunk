@@ -28550,7 +28550,7 @@ to	O
 it	B-NP
 ,	O
 even	 B-NP
-the	B-NP
+the	 I-NP
 S&L	I-NP
 lawyers	I-NP
 concede	O
@@ -28589,8 +28589,8 @@ their	B-NP
 arguments	I-NP
 in	O
 Texas	B-NP
-and	I-NP
-eight	I-NP
+and	 O
+eight	 B-NP
 other	I-NP
 states	I-NP
 where	O
@@ -28620,7 +28620,7 @@ court	B-NP
 dockets	I-NP
 in	O
 Texas	B-NP
-and	I-NP
+and	 O
 reducing	O
 the	B-NP
 FSLIC	I-NP
@@ -28766,10 +28766,10 @@ court	I-NP
 said	O
 it	B-NP
 lacked	O
-enough	O
+enough	 B-NP
 financial	I-NP
 information	I-NP
-about	B-NP
+about	 O
 Sunbelt	B-NP
 and	O
 the	B-NP
@@ -28839,9 +28839,9 @@ August	B-NP
 This	B-NP
 institution	I-NP
 is	O
-just	B-NP
-brain	I-NP
-dead	I-NP
+just	 O
+brain	 O
+dead	 O
 ,	O
 ''	O
 says	O
@@ -28906,7 +28906,7 @@ be	O
 satisfied	O
 in	O
 ways	B-NP
-other	I-NP
+other	 O
 than	O
 a	B-NP
 monetary	I-NP
@@ -28958,8 +28958,8 @@ take	O
 the	B-NP
 Valley	I-NP
 Ranch	I-NP
-free	I-NP
-and	I-NP
+free	 O
+and	 O
 clear	O
 as	O
 a	B-NP
@@ -29047,8 +29047,8 @@ of	O
 supporters	B-NP
 ,	O
 many	B-NP
-brandishing	I-NP
-flags	I-NP
+brandishing	 O
+flags	 B-NP
 of	O
 the	B-NP
 outlawed	I-NP
@@ -29080,7 +29080,7 @@ those	B-NP
 freed	O
 had	O
 spent	O
-at	O
+at	 B-NP
 least	I-NP
 25	I-NP
 years	I-NP
@@ -29195,10 +29195,10 @@ nation	I-NP
 were	O
 piled	O
 up	O
-at	B-NP
+at	 O
 ports	B-NP
 and	O
-rail	I-NP
+rail	 B-NP
 depots	I-NP
 ,	O
 and	O
@@ -29212,7 +29212,7 @@ a	B-NP
 lack	I-NP
 of	O
 people	B-NP
-and	O
+and	 I-NP
 equipment	I-NP
 to	O
 move	O
@@ -29221,13 +29221,13 @@ cargo	I-NP
 .	O
 
 Strikes	B-NP
-and	O
+and	 I-NP
 mismanagement	I-NP
 were	O
 cited	O
 ,	O
 and	O
-Premier	I-NP
+Premier	 B-NP
 Ryzhkov	I-NP
 warned	O
 of	O
@@ -29395,10 +29395,10 @@ foreign	B-NP
 governments	I-NP
 .	O
 
-Secretary	B-NP
+Secretary	 O
 of	O
 State	B-NP
-Baker	I-NP
+Baker	 B-NP
 emphasized	O
 Friday	B-NP
 that	O
@@ -29490,12 +29490,12 @@ is	O
 expected	O
 to	O
 focus	O
-on	B-NP
+on	 O
 ties	B-NP
 between	O
 Washington	B-NP
 and	I-NP
-Seoul	B-NP
+Seoul	 I-NP
 .	O
 
 Roh	B-NP
@@ -29520,7 +29520,7 @@ to	O
 meet	O
 with	O
 Bush	B-NP
-tomorrow	I-NP
+tomorrow	 B-NP
 and	O
 is	O
 to	O
@@ -29545,7 +29545,7 @@ the	B-NP
 party	I-NP
 of	O
 ``	O
-hostile	I-NP
+hostile	 B-NP
 and	I-NP
 anti-party	I-NP
 elements	I-NP
@@ -29604,7 +29604,7 @@ to	O
 more	B-NP
 than	I-NP
 1,200	I-NP
-the	I-NP
+the	 B-NP
 number	I-NP
 of	O
 emigres	B-NP
@@ -29614,7 +29614,7 @@ flee	O
 to	O
 the	B-NP
 West	I-NP
-beginning	I-NP
+beginning	 O
 today	B-NP
 .	O
 
@@ -29644,7 +29644,7 @@ street	B-NP
 protests	I-NP
 to	O
 demand	O
-internal	O
+internal	 B-NP
 change	I-NP
 .	O
 
@@ -29657,7 +29657,7 @@ in	O
 southern	B-NP
 France	I-NP
 with	O
-Angolan	I-NP
+Angolan	 B-NP
 rebel	I-NP
 leader	I-NP
 Savimbi	I-NP
@@ -29694,7 +29694,7 @@ official	I-NP
 as	O
 ``	O
 very	O
-delicate	I-NP
+delicate	 O
 ,	O
 ''	O
 were	O
@@ -29773,7 +29773,7 @@ talks	B-NP
 in	O
 Saudi	B-NP
 Arabia	I-NP
-proposals	I-NP
+proposals	 B-NP
 for	O
 a	B-NP
 new	I-NP
@@ -29796,7 +29796,7 @@ under	O
 study	B-NP
 gives	O
 Damascus	B-NP
-two	I-NP
+two	 B-NP
 years	I-NP
 to	O
 pull	O
@@ -29809,7 +29809,7 @@ starting	O
 from	O
 the	B-NP
 time	I-NP
-Beirut	I-NP
+Beirut	 B-NP
 's	B-NP
 legislature	I-NP
 increases	O
@@ -30024,7 +30024,7 @@ franchisees	I-NP
 ,	O
 owners	B-NP
 or	O
-operators	I-NP
+operators	 B-NP
 of	O
 1,000	B-NP
 of	O
@@ -30198,7 +30198,7 @@ stock	I-NP
 market	I-NP
 's	B-NP
 plunge	I-NP
-Friday	I-NP
+Friday	 B-NP
 .	O
 
 After	O
@@ -30330,8 +30330,8 @@ keep	O
 the	B-NP
 Fed	I-NP
 from	O
-easing	B-NP
-credit	I-NP
+easing	 O
+credit	 B-NP
 ,	O
 the	B-NP
 Commerce	I-NP
@@ -30371,7 +30371,7 @@ suggested	O
 there	B-NP
 is	O
 still	O
-healthy	O
+healthy	 B-NP
 consumer	I-NP
 demand	I-NP
 in	O
@@ -30506,7 +30506,7 @@ Minneapolis	B-NP
 ,	O
 blamed	O
 rising	B-NP
-energy	B-NP
+energy	 I-NP
 prices	I-NP
 and	O
 the	B-NP
@@ -30531,7 +30531,7 @@ say	O
 this	B-NP
 is	O
 not	O
-bad	O
+bad	 B-NP
 news	I-NP
 ;	O
 this	B-NP
@@ -30575,7 +30575,7 @@ changes	B-NP
 in	O
 the	B-NP
 prices	I-NP
-producers	I-NP
+producers	 B-NP
 receive	O
 for	O
 goods	B-NP
@@ -30600,7 +30600,7 @@ run-up	I-NP
 in	O
 world	B-NP
 oil	I-NP
-prices	B-NP
+prices	 I-NP
 sent	O
 the	B-NP
 index	I-NP
@@ -30831,7 +30831,7 @@ world-wide	O
 .	O
 
 But	O
-Dirk	I-NP
+Dirk	 B-NP
 Van	I-NP
 Dongen	I-NP
 ,	O
@@ -30852,9 +30852,9 @@ rise	I-NP
 ``	O
 is	O
 n't	O
-as	O
-bad	O
-an	B-NP
+as	 B-NP
+bad	 I-NP
+an	 I-NP
 omen	I-NP
 ''	O
 as	O
@@ -30880,7 +30880,7 @@ concentrated	O
 in	O
 energy	B-NP
 and	I-NP
-motor	B-NP
+motor	 I-NP
 vehicle	I-NP
 prices	I-NP
 ,	O
@@ -31030,9 +31030,9 @@ billion	I-NP
 .	O
 
 But	O
-at	B-NP
+at	 O
 least	O
-part	I-NP
+part	 B-NP
 of	O
 the	B-NP
 increase	I-NP
@@ -31056,7 +31056,7 @@ rose	O
 1.7	B-NP
 %	I-NP
 after	O
-declining	B-NP
+declining	 O
 0.6	B-NP
 %	I-NP
 in	O
@@ -31071,7 +31071,7 @@ fell	O
 1.8	B-NP
 %	I-NP
 after	O
-rising	B-NP
+rising	 O
 1.7	B-NP
 %	I-NP
 .	O
@@ -31110,7 +31110,7 @@ jumped	O
 1.1	B-NP
 %	I-NP
 after	O
-declining	B-NP
+declining	 O
 1.9	B-NP
 %	I-NP
 in	O
@@ -31136,7 +31136,7 @@ indexes	I-NP
 -LRB-	O
 1982	B-NP
 =	O
-100	I-NP
+100	 B-NP
 -RRB-	O
 for	O
 September	B-NP
@@ -31151,8 +31151,8 @@ percentage	I-NP
 changes	I-NP
 from	O
 September	B-NP
-,	O
-1988	B-NP
+,	 I-NP
+1988	 I-NP
 .	O
 
 CityFed	B-NP
@@ -31167,12 +31167,12 @@ a	B-NP
 loss	I-NP
 of	O
 at	B-NP
-least	O
+least	 I-NP
 $	I-NP
 125	I-NP
 million	I-NP
-to	O
-$	B-NP
+to	 I-NP
+$	 I-NP
 150	I-NP
 million	I-NP
 for	O
@@ -31203,8 +31203,8 @@ earnings	I-NP
 CityFed	B-NP
 's	B-NP
 president	I-NP
-and	O
-chief	B-NP
+and	 I-NP
+chief	 I-NP
 executive	I-NP
 officer	I-NP
 ,	O
@@ -31227,7 +31227,7 @@ assets	I-NP
 rose	O
 to	O
 slightly	B-NP
-more	O
+more	 I-NP
 than	I-NP
 $	I-NP
 700	I-NP
@@ -31239,10 +31239,10 @@ million	I-NP
 between	O
 June	B-NP
 and	I-NP
-September	B-NP
+September	 I-NP
 .	O
 
-Approximately	O
+Approximately	 B-NP
 85	I-NP
 %	I-NP
 of	O
@@ -31266,11 +31266,11 @@ it	B-NP
 will	O
 provide	O
 between	B-NP
-$	B-NP
+$	 I-NP
 85	I-NP
 million	I-NP
 and	I-NP
-$	B-NP
+$	 I-NP
 110	I-NP
 million	I-NP
 for	O
@@ -31323,7 +31323,7 @@ N.J	B-NP
 City	B-NP
 Federal	I-NP
 operates	O
-105	I-NP
+105	 B-NP
 banking	I-NP
 offices	I-NP
 in	O
@@ -31517,7 +31517,7 @@ it	B-NP
 to	O
 suspend	O
 dividend	B-NP
-payments	B-NP
+payments	 I-NP
 on	O
 its	B-NP
 two	I-NP
@@ -31556,7 +31556,7 @@ operating	I-NP
 losses	I-NP
 and	O
 ``	O
-apparent	I-NP
+apparent	 B-NP
 losses	I-NP
 ''	O
 in	O
@@ -31590,8 +31590,8 @@ L.	I-NP
 Paul	I-NP
 ,	O
 chairman	B-NP
-and	I-NP
-chief	I-NP
+and	 O
+chief	 B-NP
 executive	I-NP
 officer	I-NP
 ,	O
@@ -31618,7 +31618,7 @@ and	O
 based	O
 on	O
 ``	B-NP
-insufficient	O
+insufficient	 I-NP
 ''	I-NP
 reasons	I-NP
 .	O
@@ -31654,7 +31654,7 @@ signals	O
 that	O
 regulators	B-NP
 have	O
-deep	I-NP
+deep	 B-NP
 concerns	I-NP
 about	O
 an	B-NP
@@ -31792,8 +31792,8 @@ billion	I-NP
 Mr.	B-NP
 Paul	I-NP
 said	O
-only	O
-about	O
+only	 B-NP
+about	 I-NP
 $	I-NP
 150	I-NP
 million	I-NP
@@ -31892,14 +31892,14 @@ such	B-NP
 values	I-NP
 because	O
 of	O
-the	B-NP
-relative	I-NP
-illiquidity	I-NP
+the	 O
+relative	 O
+illiquidity	 O
 of	O
 the	B-NP
 bonds	I-NP
-and	I-NP
-lack	B-NP
+and	 B-NP
+lack	 I-NP
 of	O
 a	B-NP
 ready	I-NP
@@ -31915,7 +31915,7 @@ about	O
 CenTrust	B-NP
 's	B-NP
 and	O
-other	I-NP
+other	 B-NP
 thrifts	I-NP
 '	B-NP
 junk-bond	I-NP
@@ -31953,7 +31953,7 @@ bonds	I-NP
 in	O
 the	B-NP
 new	I-NP
-,	O
+,	 I-NP
 somber	I-NP
 regulatory	I-NP
 climate	I-NP
@@ -31965,7 +31965,7 @@ Stock	I-NP
 Exchange	I-NP
 composite	I-NP
 trading	I-NP
-Friday	I-NP
+Friday	 B-NP
 ,	O
 CenTrust	B-NP
 common	I-NP
@@ -31997,14 +31997,14 @@ saying	O
 the	B-NP
 thrift	I-NP
 's	B-NP
-operating	I-NP
-losses	I-NP
+operating	 O
+losses	 O
 and	O
 ``	O
 apparent	O
-''	I-NP
+''	 B-NP
 junk-bond	I-NP
-losses	B-NP
+losses	 I-NP
 ``	O
 have	O
 been	O
@@ -32081,7 +32081,7 @@ its	B-NP
 branches	I-NP
 to	O
 Great	B-NP
-Western	B-NP
+Western	 I-NP
 Bank	I-NP
 ,	O
 a	B-NP
@@ -32137,8 +32137,8 @@ Paul	I-NP
 
 Most	B-NP
 analysts	I-NP
-and	O
-thrift	B-NP
+and	 I-NP
+thrift	 I-NP
 executives	I-NP
 had	O
 expected	O
@@ -32157,7 +32157,7 @@ July	B-NP
 ,	O
 long	O
 before	O
-now	O
+now	 B-NP
 .	O
 
 Many	B-NP
@@ -32177,8 +32177,8 @@ proposal	I-NP
 .	O
 
 Branches	B-NP
-and	O
-deposits	B-NP
+and	 I-NP
+deposits	 I-NP
 can	O
 be	O
 sold	O
@@ -32188,7 +32188,7 @@ premium	I-NP
 in	O
 the	B-NP
 event	I-NP
-federal	I-NP
+federal	 B-NP
 regulators	I-NP
 take	O
 over	O
@@ -32236,8 +32236,8 @@ sale	I-NP
 would	O
 give	O
 it	B-NP
-positive	O
-tangible	B-NP
+positive	 B-NP
+tangible	 I-NP
 capital	I-NP
 of	O
 $	B-NP
@@ -32313,13 +32313,13 @@ on	O
 brokered	B-NP
 deposits	I-NP
 and	O
-junk	I-NP
+junk	 B-NP
 bonds	I-NP
 .	O
 
 Mr.	B-NP
 Paul	I-NP
-counters	I-NP
+counters	 O
 that	O
 he	B-NP
 intends	O
@@ -32333,7 +32333,7 @@ CenTrust	B-NP
 by	O
 not	O
 renewing	O
-more	O
+more	 B-NP
 than	I-NP
 $	I-NP
 1	I-NP
@@ -32403,9 +32403,9 @@ of	O
 West	B-NP
 Germany	I-NP
 's	B-NP
-most	I-NP
-popular	I-NP
-prime-time	I-NP
+most	 O
+popular	 O
+prime-time	 B-NP
 show	I-NP
 ,	O
 a	B-NP
@@ -32423,7 +32423,7 @@ of	O
 different	I-NP
 cheeses	I-NP
 after	O
-just	O
+just	 B-NP
 one	I-NP
 nibble	I-NP
 ,	O
@@ -32439,20 +32439,20 @@ bet	I-NP
 .	O
 
 But	O
-perhaps	B-NP
+perhaps	 O
 even	O
 more	O
-remarkable	I-NP
+remarkable	 O
 ,	O
 the	B-NP
 three-hour-show	I-NP
 ,	O
 ``	O
-Wetten	I-NP
+Wetten	 B-NP
 Dass	I-NP
 ''	O
 -LRB-	O
-Make	B-NP
+Make	 O
 a	B-NP
 Bet	I-NP
 -RRB-	O
@@ -32473,8 +32473,8 @@ sometimes	O
 drawing	O
 as	B-NP
 many	I-NP
-as	O
-50	B-NP
+as	 I-NP
+50	 I-NP
 %	I-NP
 of	O
 West	B-NP
@@ -32487,7 +32487,7 @@ the	B-NP
 1992	I-NP
 economic	I-NP
 integration	I-NP
-approaches	I-NP
+approaches	 O
 ,	O
 Europe	B-NP
 's	B-NP
@@ -32567,7 +32567,7 @@ from	O
 French	B-NP
 television	I-NP
 and	I-NP
-movie	B-NP
+movie	 I-NP
 producers	I-NP
 ,	O
 who	B-NP
@@ -32634,8 +32634,8 @@ are	O
 some	B-NP
 popular	I-NP
 action	I-NP
-and	O
-drama	B-NP
+and	 I-NP
+drama	 I-NP
 series	I-NP
 ,	O
 few	B-NP
@@ -32644,9 +32644,9 @@ the	B-NP
 high	I-NP
 culture	I-NP
 and	O
-classy	I-NP
+classy	 B-NP
 production	I-NP
-values	O
+values	 I-NP
 one	B-NP
 might	O
 expect	O
@@ -32662,21 +32662,21 @@ with	O
 low-budget	B-NP
 game	I-NP
 shows	I-NP
-,	O
-variety	B-NP
+,	 I-NP
+variety	 I-NP
 hours	I-NP
-,	O
-movies	B-NP
-and	O
-talk	B-NP
+,	 I-NP
+movies	 I-NP
+and	 I-NP
+talk	 I-NP
 shows	I-NP
 ,	O
 many	B-NP
 of	O
 which	B-NP
 are	O
-authorized	O
-knock-offs	B-NP
+authorized	 B-NP
+knock-offs	 I-NP
 of	O
 their	B-NP
 American	I-NP
@@ -32687,8 +32687,8 @@ One	B-NP
 of	O
 France	B-NP
 's	B-NP
-most	I-NP
-popular	I-NP
+most	 O
+popular	 O
 Saturday	B-NP
 night	I-NP
 programs	I-NP
@@ -32712,7 +32712,7 @@ has	O
 as	O
 its	B-NP
 host	I-NP
-a	I-NP
+a	 B-NP
 Belgian	I-NP
 pretending	O
 to	O
@@ -32760,8 +32760,8 @@ sung	O
 each	B-NP
 week	I-NP
 by	O
-dancing	O
-showgirls	B-NP
+dancing	 B-NP
+showgirls	 I-NP
 --	O
 even	O
 though	O
@@ -32785,7 +32785,7 @@ of	O
 fun	B-NP
 on	O
 ``	O
-Wetten	I-NP
+Wetten	 B-NP
 Dass	I-NP
 ,	O
 ''	O
@@ -32819,8 +32819,8 @@ A	B-NP
 celebrity	I-NP
 guest	I-NP
 ,	O
-U.S.	B-NP
-Ambassador	I-NP
+U.S.	 O
+Ambassador	 O
 to	O
 West	B-NP
 Germany	I-NP
@@ -32886,7 +32886,7 @@ If	O
 this	B-NP
 seems	O
 like	O
-pretty	O
+pretty	 B-NP
 weak	I-NP
 stuff	I-NP
 around	O
@@ -32916,7 +32916,7 @@ European	B-NP
 programs	I-NP
 usually	O
 target	O
-only	O
+only	 B-NP
 their	I-NP
 own	I-NP
 local	I-NP
@@ -32924,8 +32924,8 @@ audience	I-NP
 ,	O
 and	O
 often	O
-only	O
-a	B-NP
+only	 B-NP
+a	 I-NP
 small	I-NP
 portion	I-NP
 of	O
@@ -32935,20 +32935,20 @@ that	B-NP
 Mega-hits	B-NP
 in	O
 Germany	B-NP
-or	O
-Italy	B-NP
+or	 I-NP
+Italy	 I-NP
 rarely	O
 make	O
 it	B-NP
 even	O
 to	O
 France	B-NP
-or	I-NP
-Great	I-NP
+or	 O
+Great	 B-NP
 Britain	I-NP
 ,	O
 and	O
-almost	B-NP
+almost	 O
 never	O
 show	O
 up	O
@@ -32960,7 +32960,7 @@ screens	I-NP
 Attempts	B-NP
 to	O
 produce	O
-``	O
+``	 B-NP
 pan-European	I-NP
 ''	I-NP
 programs	I-NP
@@ -32988,7 +32988,7 @@ soft-rock	B-NP
 songs	I-NP
 from	O
 each	B-NP
-of	I-NP
+of	 O
 20	B-NP
 European	I-NP
 countries	I-NP
@@ -33002,14 +33002,14 @@ world	I-NP
 's	I-NP
 most	O
 boring	O
-TV	I-NP
+TV	 B-NP
 show	I-NP
 .	O
 
 Another	B-NP
 ,	O
 ``	O
-Jeux	I-NP
+Jeux	 B-NP
 Sans	I-NP
 Frontieres	I-NP
 ,	O
@@ -33044,7 +33044,7 @@ title	I-NP
 ``	O
 Almost	B-NP
 Anything	I-NP
-Goes	I-NP
+Goes	 O
 ''	O
 flopped	O
 fast	O
@@ -33086,8 +33086,8 @@ U.S.	B-NP
 public	I-NP
 television	I-NP
 as	O
-``	B-NP
-Masterpiece	I-NP
+``	 O
+Masterpiece	 B-NP
 Theater	I-NP
 ,	O
 ''	O
@@ -33137,17 +33137,17 @@ dogs	I-NP
 .	O
 
 Also	O
-riveting	I-NP
+riveting	 O
 to	O
 the	B-NP
 British	I-NP
 are	O
-hours	I-NP
+hours	 B-NP
 of	O
 dart-throwing	B-NP
 championships	I-NP
 ,	O
-even	O
+even	 B-NP
 more	I-NP
 hours	I-NP
 of	O
@@ -33155,8 +33155,8 @@ lawn	B-NP
 bowling	I-NP
 contests	I-NP
 and	O
-still	O
-more	B-NP
+still	 B-NP
+more	 I-NP
 hours	I-NP
 of	O
 snooker	B-NP
@@ -33173,13 +33173,13 @@ though	O
 still	O
 mixed	O
 ,	O
-fortunes	I-NP
+fortunes	 B-NP
 .	O
 
 The	B-NP
 most	I-NP
 popular	I-NP
-such	B-NP
+such	 I-NP
 shows	I-NP
 focus	O
 on	O
@@ -33198,7 +33198,7 @@ Dallas	B-NP
 ''	O
 called	O
 ``	O
-Chateauvallon	I-NP
+Chateauvallon	 B-NP
 ''	O
 and	O
 set	O
@@ -33230,7 +33230,7 @@ accident	I-NP
 .	O
 
 ``	O
-Schwarzwaldklinik	I-NP
+Schwarzwaldklinik	 B-NP
 ,	O
 ''	O
 -LRB-	O
@@ -33243,9 +33243,9 @@ a	B-NP
 kind	I-NP
 of	O
 German	B-NP
-``	O
-St	B-NP
-.	O
+``	 I-NP
+St	 I-NP
+.	 I-NP
 Elsewhere	I-NP
 ''	O
 set	O
@@ -33268,9 +33268,9 @@ France	B-NP
 
 Italy	B-NP
 's	B-NP
-most	I-NP
-popular	I-NP
-series	I-NP
+most	 O
+popular	 O
+series	 B-NP
 is	O
 a	B-NP
 drama	I-NP
@@ -33304,11 +33304,11 @@ Mafia	I-NP
 
 It	B-NP
 was	O
-front-page	O
+front-page	 B-NP
 news	I-NP
 in	O
 Italy	B-NP
-earlier	O
+earlier	 B-NP
 this	I-NP
 year	I-NP
 when	O
@@ -33325,8 +33325,8 @@ series	I-NP
 
 Spain	B-NP
 's	B-NP
-most	I-NP
-popular	I-NP
+most	 O
+popular	 O
 mini-series	B-NP
 this	B-NP
 year	I-NP
@@ -33362,7 +33362,7 @@ popular	I-NP
 with	O
 American	B-NP
 programs	I-NP
-second	I-NP
+second	 O
 ,	O
 ''	O
 says	O
@@ -33399,8 +33399,8 @@ But	O
 frequently	O
 there	B-NP
 is	O
-n't	B-NP
-much	I-NP
+n't	 O
+much	 B-NP
 choice	I-NP
 .	O
 
@@ -33420,8 +33420,8 @@ shows	I-NP
 of	O
 its	B-NP
 own	I-NP
-,	I-NP
-programs	I-NP
+,	 O
+programs	 B-NP
 with	O
 broader	B-NP
 appeal	I-NP
@@ -33440,12 +33440,12 @@ scratch	B-NP
 to	O
 train	O
 writers	B-NP
-and	O
+and	 I-NP
 producers	I-NP
 to	O
 make	O
-shows	O
-that	O
+shows	 B-NP
+that	 B-NP
 other	B-NP
 people	I-NP
 will	O
@@ -33474,15 +33474,15 @@ in	O
 the	B-NP
 U.S.	I-NP
 contend	O
-that	B-NP
-advertising	I-NP
+that	 O
+advertising	 B-NP
 is	O
 the	B-NP
 bane	I-NP
 of	O
 television	B-NP
 ,	O
-here	B-NP
+here	 O
 many	B-NP
 believe	O
 that	O
@@ -33503,8 +33503,8 @@ development	I-NP
 
 Until	O
 recently	O
-,	I-NP
-national	I-NP
+,	 O
+national	 B-NP
 governments	I-NP
 in	O
 Europe	B-NP
@@ -33517,8 +33517,8 @@ time	I-NP
 and	O
 allowed	O
 little	B-NP
-or	O
-no	B-NP
+or	 I-NP
+no	 I-NP
 advertising	I-NP
 .	O
 
@@ -33531,7 +33531,7 @@ guaranteed	O
 it	B-NP
 did	O
 n't	O
-matter	I-NP
+matter	 O
 that	O
 a	B-NP
 program	I-NP
@@ -33582,7 +33582,7 @@ dramas	I-NP
 
 Now	O
 ,	O
-however	B-NP
+however	 O
 ,	O
 commercial	B-NP
 channels	I-NP
@@ -33600,8 +33600,8 @@ same	I-NP
 time	I-NP
 ,	O
 satellite	B-NP
-and	O
-cable	B-NP
+and	 I-NP
+cable	 I-NP
 technology	I-NP
 is	O
 spreading	O
@@ -33609,7 +33609,7 @@ rapidly	O
 .	O
 
 Just	B-NP
-last	B-NP
+last	 I-NP
 week	I-NP
 ,	O
 Greece	B-NP
@@ -33672,7 +33672,7 @@ the	B-NP
 cheapest	I-NP
 and	I-NP
 most	I-NP
-plentiful	O
+plentiful	 I-NP
 programming	I-NP
 now	O
 available	O
@@ -33698,7 +33698,7 @@ of	O
 Australian-American	B-NP
 press	I-NP
 tycoon	I-NP
-Rupert	B-NP
+Rupert	 I-NP
 Murdoch	I-NP
 ,	O
 offers	O
@@ -33749,7 +33749,7 @@ end	I-NP
 of	O
 a	B-NP
 badly	I-NP
-acted	O
+acted	 I-NP
 series	I-NP
 about	O
 a	B-NP
@@ -33780,7 +33780,7 @@ further	I-NP
 adventures	I-NP
 of	O
 Skippy	B-NP
-the	B-NP
+the	 I-NP
 Kangaroo	I-NP
 .	O
 ''	O
@@ -33799,7 +33799,7 @@ Tim	B-NP
 Carrington	I-NP
 in	O
 London	B-NP
-and	I-NP
+and	 O
 Carlta	B-NP
 Vitzhum	I-NP
 in	O
@@ -33849,7 +33849,7 @@ which	B-NP
 may	O
 be	O
 dubbed	O
-Eurodynamics	I-NP
+Eurodynamics	 B-NP
 ,	O
 would	O
 have	O
@@ -33858,7 +33858,7 @@ annual	I-NP
 sales	I-NP
 of	O
 at	B-NP
-least	O
+least	 I-NP
 #	I-NP
 1.4	I-NP
 billion	I-NP
@@ -33969,7 +33969,7 @@ Already	O
 British	B-NP
 Aerospace	I-NP
 and	O
-French	I-NP
+French	 B-NP
 government-controlled	I-NP
 Thomson-CSF	I-NP
 collaborate	O
@@ -33988,7 +33988,7 @@ system	I-NP
 .	O
 
 Just	B-NP
-last	B-NP
+last	 I-NP
 week	I-NP
 they	B-NP
 announced	O
@@ -34029,8 +34029,8 @@ British	B-NP
 Aerospace	I-NP
 and	O
 Thomson-CSF	B-NP
---	O
-traditionally	O
+--	 B-NP
+traditionally	 I-NP
 bitter	B-NP
 competitors	I-NP
 for	O
@@ -34072,8 +34072,8 @@ Matra	B-NP
 S.A.	I-NP
 in	O
 France	B-NP
-and	I-NP
-Britain	I-NP
+and	 O
+Britain	 B-NP
 's	B-NP
 General	I-NP
 Electric	I-NP
@@ -34090,8 +34090,8 @@ GEC	B-NP
 unrelated	O
 to	O
 Stamford	B-NP
-,	O
-Conn.-based	O
+,	 I-NP
+Conn.-based	 I-NP
 General	I-NP
 Electric	I-NP
 Co.	I-NP
@@ -34104,7 +34104,7 @@ as	O
 their	B-NP
 competitors	I-NP
 join	O
-forces	I-NP
+forces	 B-NP
 .	O
 
 Yesterday	B-NP
@@ -34137,13 +34137,13 @@ against	O
 British	B-NP
 Aerospace	I-NP
 and	O
-Thomson-CSF	I-NP
+Thomson-CSF	 B-NP
 .	O
 
 Companies	B-NP
 with	O
 which	B-NP
-GEC	I-NP
+GEC	 B-NP
 has	O
 had	O
 talks	B-NP
@@ -34155,7 +34155,7 @@ Ferranti	I-NP
 bid	I-NP
 include	O
 Matra	B-NP
-,	I-NP
+,	 O
 Britain	B-NP
 's	B-NP
 Dowty	I-NP
@@ -34179,7 +34179,7 @@ But	O
 it	B-NP
 may	O
 be	O
-weeks	O
+weeks	 B-NP
 before	O
 GEC	B-NP
 and	O
@@ -34271,9 +34271,9 @@ heighten	O
 British	B-NP
 Defense	I-NP
 Ministry	I-NP
-worries	I-NP
-about	B-NP
-concentration	I-NP
+worries	 B-NP
+about	 O
+concentration	 B-NP
 in	O
 the	B-NP
 country	I-NP
@@ -34296,7 +34296,7 @@ direct	I-NP
 role	I-NP
 in	O
 Ferranti	B-NP
-and	I-NP
+and	 O
 might	O
 consequently	O
 appease	O
@@ -34335,8 +34335,8 @@ she	B-NP
 said	O
 .	O
 
-At	O
-least	O
+At	 B-NP
+least	 I-NP
 one	I-NP
 potential	I-NP
 GEC	I-NP
@@ -34359,7 +34359,7 @@ have	O
 nothing	B-NP
 to	O
 say	O
-about	B-NP
+about	 O
 this	B-NP
 affair	I-NP
 ,	O
@@ -34404,9 +34404,9 @@ contracting	I-NP
 
 For	O
 both	B-NP
-Thomson	I-NP
-and	I-NP
-British	I-NP
+Thomson	 B-NP
+and	 O
+British	 B-NP
 Aerospace	I-NP
 ,	O
 earnings	B-NP
@@ -34419,13 +34419,13 @@ come	O
 under	O
 pressure	B-NP
 from	O
-increasingly	O
+increasingly	 B-NP
 tight-fisted	I-NP
 defense	I-NP
 ministries	I-NP
 ;	O
 and	O
-Middle	I-NP
+Middle	 B-NP
 East	I-NP
 sales	I-NP
 ,	O
@@ -34471,7 +34471,7 @@ business	I-NP
 depends	O
 on	O
 building	O
-cooperation	I-NP
+cooperation	 B-NP
 with	O
 other	B-NP
 Europeans	I-NP
@@ -34512,7 +34512,7 @@ buy	O
 Messerschmitt-Boelkow	B-NP
 Blohm	I-NP
 G.m.b	I-NP
-.	O
+.	 I-NP
 H	I-NP
 .	O
 
@@ -34612,9 +34612,9 @@ missile	I-NP
 products	I-NP
 ,	O
 with	O
-about	B-NP
-half	I-NP
-British	I-NP
+about	 O
+half	 O
+British	 B-NP
 Aerospace	I-NP
 's	B-NP
 annual	I-NP
@@ -34636,17 +34636,17 @@ said	O
 it	B-NP
 will	O
 delay	O
-a	B-NP
-proposed	I-NP
-two-step	I-NP
+a	 O
+proposed	 O
+two-step	 O
 ,	O
-830	I-NP
-million	I-NP
+830	 O
+million	 O
 Canadian-dollar	O
 -LRB-	O
-US$	B-NP
-705.6	I-NP
-million	I-NP
+US$	 O
+705.6	 O
+million	 O
 -RRB-	O
 expansion	B-NP
 of	O
@@ -34682,7 +34682,7 @@ the	B-NP
 U.S.	I-NP
 ,	O
 said	O
-revised	O
+revised	 B-NP
 industry	I-NP
 forecasts	I-NP
 indicate	O
@@ -34704,7 +34704,7 @@ by	O
 8	B-NP
 %	I-NP
 lower	O
-than	I-NP
+than	 O
 a	B-NP
 previous	I-NP
 estimate	I-NP
@@ -34776,7 +34776,7 @@ president	I-NP
 for	O
 government	B-NP
 and	I-NP
-industry	B-NP
+industry	 I-NP
 relations	I-NP
 with	O
 Interprovincial	B-NP
@@ -34814,8 +34814,8 @@ making	O
 expansion	B-NP
 unnecessary	O
 until	O
-perhaps	O
-the	B-NP
+perhaps	 B-NP
+the	 I-NP
 mid-1990s	I-NP
 .	O
 
@@ -34844,7 +34844,7 @@ of	O
 Canada	B-NP
 's	B-NP
 oil	I-NP
-and	O
+and	 I-NP
 gas	I-NP
 producers	I-NP
 say	O
@@ -34893,8 +34893,8 @@ and	O
 the	B-NP
 number	I-NP
 of	O
-completed	O
-oil	B-NP
+completed	 B-NP
+oil	 I-NP
 wells	I-NP
 is	O
 ``	O
@@ -34917,7 +34917,7 @@ said	O
 Robert	B-NP
 Feick	I-NP
 ,	O
-manager	I-NP
+manager	 B-NP
 of	O
 crude	B-NP
 oil	I-NP
@@ -34946,14 +34946,14 @@ the	B-NP
 production	I-NP
 decline	I-NP
 is	O
-shrinking	O
-output	B-NP
+shrinking	 B-NP
+output	 I-NP
 of	O
 light	B-NP
 crude	I-NP
 from	O
-mature	O
-,	O
+mature	 B-NP
+,	 I-NP
 conventional	I-NP
 fields	I-NP
 in	O
@@ -34990,14 +34990,14 @@ crude	I-NP
 .	O
 
 Nearly	B-NP
-all	B-NP
+all	 I-NP
 of	O
 the	B-NP
 crude	I-NP
 oil	I-NP
-that	O
+that	 B-NP
 Canada	B-NP
-exports	I-NP
+exports	 O
 to	O
 the	B-NP
 U.S.	I-NP
@@ -35011,7 +35011,7 @@ system	I-NP
 whose	B-NP
 main	I-NP
 line	I-NP
-runs	I-NP
+runs	 O
 from	O
 Edmonton	B-NP
 to	O
@@ -35028,11 +35028,11 @@ region	I-NP
 ,	O
 including	O
 Chicago	B-NP
-,	O
-Buffalo	B-NP
-,	O
-Toronto	B-NP
-and	O
+,	 I-NP
+Buffalo	 I-NP
+,	 I-NP
+Toronto	 I-NP
+and	 I-NP
 Montreal	I-NP
 .	O
 
@@ -35123,8 +35123,8 @@ on	O
 oil	B-NP
 from	O
 overseas	B-NP
-,	O
-particularly	O
+,	 B-NP
+particularly	 I-NP
 the	B-NP
 Middle	I-NP
 East	I-NP
@@ -35193,7 +35193,7 @@ case	I-NP
 by	O
 Canada	B-NP
 's	B-NP
-falling	O
+falling	 I-NP
 output	I-NP
 .	O
 
@@ -35262,7 +35262,7 @@ third-quarter	B-NP
 earnings	I-NP
 dropped	O
 more	B-NP
-than	O
+than	 I-NP
 50	I-NP
 %	I-NP
 from	O
@@ -35295,7 +35295,7 @@ of	O
 $	B-NP
 45.3	I-NP
 million	I-NP
-or	I-NP
+or	 O
 $	B-NP
 1.25	I-NP
 a	B-NP
@@ -35317,7 +35317,7 @@ of	O
 a	B-NP
 suit	I-NP
 ,	O
-on	B-NP
+on	 O
 sales	B-NP
 of	O
 $	B-NP
@@ -35373,9 +35373,9 @@ in	O
 materials	B-NP
 costs	I-NP
 and	O
-repair	I-NP
+repair	 B-NP
 and	I-NP
-maintenance	B-NP
+maintenance	 I-NP
 expenses	I-NP
 ,	O
 as	O
@@ -35399,7 +35399,7 @@ by	O
 reduced	B-NP
 margins	I-NP
 and	O
-start-up	I-NP
+start-up	 B-NP
 costs	I-NP
 associated	O
 with	O
@@ -35424,8 +35424,8 @@ some	B-NP
 shipping-rate	I-NP
 improvements	I-NP
 in	O
-both	O
-the	B-NP
+both	 B-NP
+the	 I-NP
 intergrated-steel	I-NP
 and	I-NP
 steel-service-center	I-NP
@@ -35451,8 +35451,8 @@ results	I-NP
 will	O
 be	O
 announced	O
-later	O
-this	B-NP
+later	 B-NP
+this	 I-NP
 week	I-NP
 .	O
 
@@ -35541,8 +35541,8 @@ Street	I-NP
 with	O
 the	B-NP
 prediction	I-NP
-that	B-NP
-growth	I-NP
+that	 O
+growth	 B-NP
 in	O
 the	B-NP
 personal	I-NP
@@ -35551,7 +35551,7 @@ business	I-NP
 overall	O
 would	O
 be	O
-only	O
+only	 B-NP
 10	I-NP
 %	I-NP
 in	O
@@ -35617,8 +35617,8 @@ But	O
 that	B-NP
 was	O
 all	B-NP
-of	O
-three	B-NP
+of	 I-NP
+three	 I-NP
 months	I-NP
 ago	O
 .	O
@@ -35739,7 +35739,7 @@ firms	I-NP
 he	B-NP
 follows	O
 ,	O
-half	I-NP
+half	 B-NP
 will	O
 report	O
 for	O
@@ -35747,7 +35747,7 @@ their	B-NP
 most	I-NP
 recent	I-NP
 quarter	I-NP
-earnings	I-NP
+earnings	 B-NP
 below	O
 last	B-NP
 year	I-NP
@@ -35755,7 +35755,7 @@ year	I-NP
 results	I-NP
 ,	O
 and	O
-half	I-NP
+half	 B-NP
 above	O
 those	B-NP
 results	I-NP
@@ -35781,8 +35781,8 @@ Sun	B-NP
 Microsystems	I-NP
 Inc.	I-NP
 ,	O
-generally	O
-solid	B-NP
+generally	 B-NP
+solid	 I-NP
 performers	I-NP
 in	O
 the	B-NP
@@ -35850,7 +35850,7 @@ computers	I-NP
 from	O
 Apple	B-NP
 and	I-NP
-IBM	B-NP
+IBM	 I-NP
 had	O
 resulted	O
 in	O
@@ -35866,7 +35866,7 @@ quarter	I-NP
 ended	O
 June	B-NP
 30	I-NP
-to	I-NP
+to	 O
 $	B-NP
 7.4	I-NP
 million	I-NP
@@ -35909,8 +35909,8 @@ expects	O
 earnings	B-NP
 of	O
 14	B-NP
-to	O
-17	B-NP
+to	 I-NP
+17	 I-NP
 cents	I-NP
 a	B-NP
 share	I-NP
@@ -35984,13 +35984,13 @@ image	I-NP
 produced	O
 by	O
 printers	B-NP
-and	O
+and	 I-NP
 displays	I-NP
 .	O
 
 Until	O
 recently	O
-,	I-NP
+,	 O
 Adobe	B-NP
 had	O
 a	B-NP
@@ -36064,7 +36064,7 @@ business	I-NP
 however	O
 ,	O
 appears	O
-strong	B-NP
+strong	 O
 .	O
 
 The	B-NP
@@ -36120,8 +36120,8 @@ said	O
 the	B-NP
 Mountain	I-NP
 View	I-NP
-,	O
-Calif.	B-NP
+,	 I-NP
+Calif.	 I-NP
 ,	I-NP
 company	I-NP
 has	O
@@ -36215,8 +36215,8 @@ maker	B-NP
 of	O
 a	B-NP
 widely	I-NP
-used	O
-computer	B-NP
+used	 I-NP
+computer	 I-NP
 publishing	I-NP
 program	I-NP
 .	O
@@ -36321,7 +36321,7 @@ makers	I-NP
 ,	O
 including	O
 H-P	B-NP
-and	I-NP
+and	 O
 Compaq	B-NP
 Computer	I-NP
 Corp.	I-NP
@@ -36349,8 +36349,8 @@ Benton	I-NP
 an	B-NP
 analyst	I-NP
 at	O
-Goldman	O
-,	O
+Goldman	 B-NP
+,	 I-NP
 Sachs	I-NP
 &	I-NP
 Co	I-NP
@@ -36387,7 +36387,7 @@ gap	I-NP
 between	O
 winners	B-NP
 and	I-NP
-laggards	B-NP
+laggards	 I-NP
 will	O
 grow	O
 .	O
@@ -36397,10 +36397,10 @@ personal	B-NP
 computers	I-NP
 ,	O
 Apple	B-NP
-,	O
-Compaq	B-NP
-and	O
-IBM	B-NP
+,	 I-NP
+Compaq	 I-NP
+and	 I-NP
+IBM	 I-NP
 are	O
 expected	O
 to	O
@@ -36428,7 +36428,7 @@ ground	B-NP
 
 Some	B-NP
 lagging	I-NP
-competitors	B-NP
+competitors	 I-NP
 even	O
 may	O
 leave	O
@@ -36490,7 +36490,7 @@ Securities	I-NP
 Mr.	B-NP
 Brown	I-NP
 estimates	O
-Wyse	I-NP
+Wyse	 B-NP
 ,	O
 whose	B-NP
 terminals	I-NP
@@ -36531,7 +36531,7 @@ computer	I-NP
 firms	I-NP
 .	O
 
-Ever-more	O
+Ever-more	 B-NP
 powerful	I-NP
 desk-top	I-NP
 computers	I-NP
@@ -36540,7 +36540,7 @@ designed	O
 with	O
 one	B-NP
 or	I-NP
-more	B-NP
+more	 I-NP
 microprocessors	I-NP
 as	O
 their	B-NP
@@ -36554,14 +36554,14 @@ to	O
 increasingly	O
 take	O
 on	O
-functions	I-NP
+functions	 B-NP
 carried	O
 out	O
 by	O
 more	B-NP
 expensive	I-NP
 minicomputers	I-NP
-and	O
+and	 I-NP
 mainframes	I-NP
 .	O
 
@@ -36596,10 +36596,10 @@ trend	I-NP
 longtime	B-NP
 powerhouses	I-NP
 H-P	I-NP
-,	O
-IBM	B-NP
-and	O
-Digital	B-NP
+,	 I-NP
+IBM	 I-NP
+and	 I-NP
+Digital	 I-NP
 Equipment	I-NP
 Corp.	I-NP
 are	O
@@ -36635,8 +36635,8 @@ of	O
 high-end	B-NP
 personal	I-NP
 computers	I-NP
-later	O
-this	B-NP
+later	 B-NP
+this	 I-NP
 year	I-NP
 that	B-NP
 are	O
@@ -36667,9 +36667,9 @@ also	O
 has	O
 targeted	O
 this	B-NP
-``	O
+``	 I-NP
 server	I-NP
-''	O
+''	 I-NP
 market	I-NP
 .	O
 
@@ -36690,10 +36690,10 @@ comeback	I-NP
 So	O
 are	O
 Indiana	B-NP
-,	O
-Ohio	B-NP
-and	O
-Michigan	B-NP
+,	 I-NP
+Ohio	 I-NP
+and	 I-NP
+Michigan	 I-NP
 .	O
 
 The	B-NP
@@ -36751,10 +36751,10 @@ or	O
 0.4	B-NP
 %	I-NP
 ,	O
-between	B-NP
+between	 O
 1987	B-NP
-and	O
-1988	B-NP
+and	 I-NP
+1988	 I-NP
 ,	O
 the	B-NP
 Census	I-NP
@@ -36764,12 +36764,12 @@ says	O
 
 Still	O
 ,	O
-even	O
-that	O
+even	 B-NP
+that	 I-NP
 modest	I-NP
 increase	I-NP
 is	O
-good	O
+good	 B-NP
 news	I-NP
 for	O
 a	B-NP
@@ -36779,15 +36779,15 @@ had	O
 n't	O
 grown	O
 at	O
-all	B-NP
+all	 O
 since	O
 1981	B-NP
 .	O
 
 Between	O
 1987	B-NP
-and	O
-1988	B-NP
+and	 I-NP
+1988	 I-NP
 ,	O
 North	B-NP
 Dakota	I-NP
@@ -36833,7 +36833,7 @@ Missouri	B-NP
 South	B-NP
 Dakota	I-NP
 and	O
-Wisconsin	I-NP
+Wisconsin	 B-NP
 .	O
 
 The	B-NP
@@ -36880,7 +36880,7 @@ And	O
 although	O
 Pennsylvania	B-NP
 and	I-NP
-Massachusetts	B-NP
+Massachusetts	 I-NP
 suffered	O
 slight	B-NP
 declines	I-NP
@@ -36905,7 +36905,7 @@ states	I-NP
 in	O
 the	B-NP
 South	I-NP
-and	O
+and	 I-NP
 West	I-NP
 have	O
 had	O
@@ -36950,7 +36950,7 @@ though	O
 ,	O
 the	B-NP
 South	I-NP
-and	O
+and	 I-NP
 West	I-NP
 still	O
 outpace	O
@@ -36960,12 +36960,12 @@ and	I-NP
 Midwest	I-NP
 ,	O
 and	O
-fast-growing	I-NP
+fast-growing	 B-NP
 states	I-NP
 like	O
 Florida	B-NP
-and	O
-California	B-NP
+and	 I-NP
+California	 I-NP
 ensure	O
 that	O
 the	B-NP
@@ -37043,8 +37043,8 @@ of	O
 people	B-NP
 aged	O
 65	B-NP
-to	O
-74	B-NP
+to	 I-NP
+74	 I-NP
 were	O
 living	O
 with	O
@@ -37115,20 +37115,20 @@ children	B-NP
 
 In	O
 1988	B-NP
-,	I-NP
+,	 O
 10	B-NP
 %	I-NP
 of	O
 those	B-NP
 aged	O
 65	B-NP
-to	O
-74	B-NP
+to	 I-NP
+74	 I-NP
 lived	O
 with	O
 relatives	B-NP
-other	I-NP
-than	I-NP
+other	 O
+than	 O
 spouses	B-NP
 ,	O
 down	O
@@ -37142,7 +37142,7 @@ in	O
 As	O
 people	B-NP
 get	O
-even	B-NP
+even	 O
 older	O
 ,	O
 many	B-NP
@@ -37210,8 +37210,8 @@ older	O
 lived	O
 with	O
 relatives	B-NP
-other	I-NP
-than	I-NP
+other	 O
+than	 O
 spouses	B-NP
 in	O
 1988	B-NP
@@ -37268,13 +37268,13 @@ For	O
 the	B-NP
 Well-to-Do	I-NP
 
-MANY	I-NP
+MANY	 B-NP
 AFFLUENT	I-NP
 people	I-NP
 place	O
 personal	B-NP
 success	I-NP
-and	I-NP
+and	 O
 money	B-NP
 above	O
 family	B-NP
@@ -37282,9 +37282,9 @@ family	B-NP
 
 At	O
 least	O
-that	O
-'s	B-NP
-what	I-NP
+that	 B-NP
+'s	 O
+what	 B-NP
 a	B-NP
 survey	I-NP
 by	O
@@ -37292,11 +37292,11 @@ Ernst	B-NP
 &	I-NP
 Young	I-NP
 and	O
-Yankelovich	I-NP
-,	O
-Clancy	B-NP
-,	O
-Shulman	B-NP
+Yankelovich	 B-NP
+,	 I-NP
+Clancy	 I-NP
+,	 I-NP
+Shulman	 I-NP
 indicates	O
 .	O
 
@@ -37346,7 +37346,7 @@ money	I-NP
 they	B-NP
 make	O
 are	O
-top	I-NP
+top	 B-NP
 priorities	I-NP
 for	O
 this	B-NP
@@ -37379,7 +37379,7 @@ $	B-NP
 194,000	I-NP
 ,	O
 and	O
-average	I-NP
+average	 B-NP
 net	I-NP
 assets	I-NP
 were	O
@@ -37420,7 +37420,7 @@ population	I-NP
 ,	O
 they	B-NP
 control	O
-nearly	O
+nearly	 B-NP
 one-third	I-NP
 of	O
 discretionary	B-NP
@@ -37443,13 +37443,13 @@ like	O
 rather	O
 than	O
 just	B-NP
-what	I-NP
+what	 B-NP
 they	B-NP
 need	O
 ,	O
-and	I-NP
+and	 O
 appreciate	O
-products	I-NP
+products	 B-NP
 that	B-NP
 are	O
 distinctive	O
@@ -37459,8 +37459,8 @@ Despite	O
 their	B-NP
 considerable	I-NP
 incomes	I-NP
-and	O
-assets	B-NP
+and	 I-NP
+assets	 I-NP
 ,	O
 40	B-NP
 %	I-NP
@@ -37524,7 +37524,7 @@ they	B-NP
 're	O
 more	O
 able	O
-than	I-NP
+than	 O
 others	B-NP
 .	O
 
@@ -37535,18 +37535,18 @@ some	B-NP
 guilt	I-NP
 about	O
 being	O
-affluent	I-NP
+affluent	 B-NP
 ,	O
 only	B-NP
 25	I-NP
 %	I-NP
 give	O
 $	B-NP
-2,500	B-NP
-or	O
-more	B-NP
+2,500	 I-NP
+or	 I-NP
+more	 I-NP
 to	O
-charity	I-NP
+charity	 B-NP
 each	B-NP
 year	I-NP
 .	O
@@ -37554,7 +37554,7 @@ year	I-NP
 Thirty-five	B-NP
 percent	I-NP
 attend	O
-religious	I-NP
+religious	 B-NP
 services	I-NP
 regularly	O
 ;	O
@@ -37580,7 +37580,7 @@ principles	I-NP
 .	O
 
 Odds	B-NP
-and	O
+and	 I-NP
 Ends	I-NP
 
 THE	B-NP
@@ -37588,7 +37588,7 @@ NUMBER	I-NP
 of	O
 women	B-NP
 and	I-NP
-minorities	B-NP
+minorities	 I-NP
 who	B-NP
 hold	O
 jobs	B-NP
@@ -37623,7 +37623,7 @@ up	O
 of	O
 officials	B-NP
 and	I-NP
-managers	B-NP
+managers	 I-NP
 in	O
 the	B-NP
 top	I-NP
@@ -37666,7 +37666,7 @@ grew	O
 faster	O
 than	O
 inflation	B-NP
-last	I-NP
+last	 B-NP
 year	I-NP
 ,	O
 according	O
@@ -37687,9 +37687,9 @@ up	O
 for	O
 each	B-NP
 man	I-NP
-,	O
+,	 I-NP
 woman	I-NP
-and	O
+and	 I-NP
 child	I-NP
 was	O
 $	B-NP
@@ -37708,7 +37708,7 @@ in	O
 .	O
 
 Per	B-NP
-capita	B-NP
+capita	 I-NP
 personal	I-NP
 income	I-NP
 ranged	O
@@ -37747,20 +37747,20 @@ Center	I-NP
 for	O
 Education	B-NP
 Statistics	I-NP
-estimates	I-NP
+estimates	 O
 .	O
 
 About	B-NP
 54	I-NP
 %	I-NP
 are	O
-women	I-NP
+women	 B-NP
 ,	O
 and	O
 44	B-NP
 %	I-NP
 are	O
-part-time	I-NP
+part-time	 B-NP
 students	I-NP
 .	O
 
@@ -37768,7 +37768,7 @@ This	B-NP
 small	I-NP
 Dallas	I-NP
 suburb	I-NP
-'s	B-NP
+'s	 O
 got	O
 trouble	B-NP
 .	O
@@ -37790,9 +37790,9 @@ for	O
 pool	B-NP
 .	O
 
-More	O
+More	 B-NP
 than	I-NP
-30	B-NP
+30	 I-NP
 years	I-NP
 ago	O
 ,	O
@@ -37808,7 +37808,7 @@ Meredith	B-NP
 Willson	I-NP
 's	B-NP
 ``	I-NP
-The	B-NP
+The	 I-NP
 Music	I-NP
 Man	I-NP
 ,	O
@@ -37828,7 +37828,7 @@ game	I-NP
 .	O
 
 Now	O
-kindred	I-NP
+kindred	 B-NP
 spirits	I-NP
 on	O
 Addison	B-NP
@@ -37862,7 +37862,7 @@ lounge	I-NP
 Mayor	B-NP
 Lynn	I-NP
 Spruill	I-NP
-and	I-NP
+and	 O
 two	B-NP
 members	I-NP
 of	O
@@ -37916,7 +37916,7 @@ betting	B-NP
 which	B-NP
 leads	O
 to	O
-fights	I-NP
+fights	 B-NP
 .	O
 ''	O
 
@@ -37925,16 +37925,16 @@ council	I-NP
 's	B-NP
 action	I-NP
 is	O
-yet	O
+yet	 B-NP
 another	I-NP
 blow	I-NP
 to	O
 a	B-NP
 sport	I-NP
-that	O
+that	 B-NP
 its	B-NP
 fans	I-NP
-claim	I-NP
+claim	 O
 has	O
 been	O
 maligned	O
@@ -37973,7 +37973,7 @@ Association	I-NP
 
 Pool	B-NP
 is	O
-hot	B-NP
+hot	 O
 in	O
 New	B-NP
 York	I-NP
@@ -37985,9 +37985,9 @@ insists	O
 ,	O
 where	O
 ``	O
-upscale	I-NP
-,	O
-suit-and-tie	B-NP
+upscale	 B-NP
+,	 I-NP
+suit-and-tie	 I-NP
 places	I-NP
 ''	O
 are	O
@@ -37998,7 +37998,7 @@ tables	B-NP
 With	O
 today	B-NP
 's	B-NP
-tougher	O
+tougher	 I-NP
 drunk	I-NP
 driving	I-NP
 laws	I-NP
@@ -38056,7 +38056,7 @@ the	B-NP
 lounge	I-NP
 ,	O
 manager	B-NP
-Elizabeth	B-NP
+Elizabeth	 I-NP
 Dyer	I-NP
 wo	O
 n't	O
@@ -38086,7 +38086,7 @@ arguments	I-NP
 .	O
 
 Introducing	O
-pool	I-NP
+pool	 B-NP
 ,	O
 argued	O
 Councilwoman	B-NP
@@ -38201,12 +38201,12 @@ people	I-NP
 worried	O
 about	O
 something	B-NP
-pretty	I-NP
+pretty	 O
 ridiculous	O
 ,	O
 ''	O
-Councilman	I-NP
-John	B-NP
+Councilman	 B-NP
+John	 I-NP
 Nolan	I-NP
 says	O
 .	O
@@ -38230,11 +38230,11 @@ Man	I-NP
 The	B-NP
 only	I-NP
 thing	I-NP
-Robert	I-NP
+Robert	 B-NP
 Goldberg	I-NP
 could	O
 praise	O
-about	B-NP
+about	 O
 CBS	B-NP
 's	B-NP
 new	I-NP
@@ -38275,10 +38275,10 @@ For	O
 instance	B-NP
 :	O
 ``	O
-Haole	I-NP
+Haole	 B-NP
 ''	O
 -LRB-	O
-white	O
+white	 B-NP
 -RRB-	O
 is	O
 not	O
@@ -38287,7 +38287,7 @@ ultimate	I-NP
 insult	I-NP
 ;	O
 ``	O
-Mainland	I-NP
+Mainland	 B-NP
 haole	I-NP
 ''	O
 is	O
@@ -38323,13 +38323,13 @@ expression	I-NP
 for	O
 brother	B-NP
 is	O
-``	O
-brah	O
-,	O
-''	O
-not	O
-``	O
-bruddah	O
+``	 B-NP
+brah	 I-NP
+,	 I-NP
+''	 I-NP
+not	 I-NP
+``	 I-NP
+bruddah	 I-NP
 .	O
 ''	O
 
@@ -38344,7 +38344,7 @@ flowers	B-NP
 in	O
 her	B-NP
 hair	I-NP
-while	I-NP
+while	 O
 on	O
 duty	B-NP
 ,	O
@@ -38360,11 +38360,11 @@ wear	O
 them	B-NP
 behind	O
 her	B-NP
-left	O
-,	O
-not	O
-right	O
-,	O
+left	 I-NP
+,	 I-NP
+not	 I-NP
+right	 I-NP
+,	 I-NP
 ear	I-NP
 .	O
 
@@ -38373,7 +38373,7 @@ Sorry	O
 the	B-NP
 show	I-NP
 does	O
-not	B-NP
+not	 O
 even	O
 have	O
 the	B-NP
@@ -38386,7 +38386,7 @@ local	I-NP
 color	I-NP
 .	O
 
-Anita	I-NP
+Anita	 B-NP
 Davis	I-NP
 
 Of	O
@@ -38401,7 +38401,7 @@ which	B-NP
 is	O
 the	B-NP
 most	I-NP
-troublesome	O
+troublesome	 I-NP
 right	O
 now	O
 ?	O
@@ -38442,10 +38442,10 @@ a	B-NP
 new	I-NP
 ABC	I-NP
 sitcom	I-NP
-airing	I-NP
+airing	 O
 on	O
 Tuesday	B-NP
-nights	I-NP
+nights	 B-NP
 -LRB-	O
 9:30-10	B-NP
 p.m.	I-NP
@@ -38462,7 +38462,7 @@ the	B-NP
 star	I-NP
 of	O
 ``	O
-Chicken	I-NP
+Chicken	 B-NP
 Soup	I-NP
 ,	O
 ''	O
@@ -38525,7 +38525,7 @@ for	O
 the	B-NP
 Rudolph	I-NP
 Giuliani	I-NP
-mayoral	O
+mayoral	 I-NP
 campaign	I-NP
 ,	O
 and	O
@@ -38570,7 +38570,7 @@ voters	I-NP
 feel	O
 bitter	O
 about	O
-racial	I-NP
+racial	 B-NP
 discrimination	I-NP
 ,	O
 so	O
@@ -38592,14 +38592,14 @@ have	O
 contributed	O
 more	B-NP
 to	O
-black	I-NP
+black	 B-NP
 causes	I-NP
 over	O
 the	B-NP
 years	I-NP
 than	O
-vice	I-NP
-versa	I-NP
+vice	 O
+versa	 O
 .	O
 
 Of	O
@@ -38610,7 +38610,7 @@ Mason	I-NP
 did	O
 not	O
 use	O
-neutral	O
+neutral	 B-NP
 language	I-NP
 .	O
 
@@ -38652,7 +38652,7 @@ were	O
 ``	O
 sick	O
 with	O
-complexes	I-NP
+complexes	 B-NP
 ''	O
 ;	O
 and	O
@@ -38682,7 +38682,7 @@ Mr.	B-NP
 Mason	I-NP
 had	O
 used	O
-less	O
+less	 B-NP
 derogatory	I-NP
 language	I-NP
 to	O
@@ -38716,7 +38716,7 @@ would	O
 because	O
 few	B-NP
 or	I-NP
-none	B-NP
+none	 I-NP
 of	O
 the	B-NP
 people	I-NP
@@ -38742,7 +38742,7 @@ fact	I-NP
 that	O
 he	B-NP
 used	O
-insulting	O
+insulting	 B-NP
 language	I-NP
 .	O
 
@@ -38940,9 +38940,9 @@ the	I-NP
 media	I-NP
 prattle	I-NP
 about	O
-comedy	I-NP
+comedy	 B-NP
 and	I-NP
-politics	B-NP
+politics	 I-NP
 not	O
 mixing	O
 ,	O
@@ -38959,7 +38959,7 @@ serve	O
 as	O
 mechanisms	B-NP
 for	O
-easing	B-NP
+easing	 O
 tensions	B-NP
 and	O
 facilitating	O
@@ -39015,7 +39015,7 @@ donnybrook	I-NP
 ,	O
 ``	O
 Perhaps	O
-intolerance	I-NP
+intolerance	 B-NP
 would	O
 not	O
 boil	O
@@ -39063,7 +39063,7 @@ passe	O
 ,	O
 then	O
 what	B-NP
-other	B-NP
+other	 I-NP
 means	I-NP
 do	O
 we	B-NP
@@ -39088,7 +39088,7 @@ to	O
 be	O
 a	B-NP
 genre	I-NP
-that	O
+that	 B-NP
 ,	O
 in	O
 its	B-NP
@@ -39102,12 +39102,12 @@ offend	O
 nobody	B-NP
 ,	O
 resembles	O
-politics	I-NP
+politics	 B-NP
 more	O
 than	O
 it	B-NP
 does	O
-comedy	I-NP
+comedy	 B-NP
 .	O
 
 It	B-NP
@@ -39129,8 +39129,8 @@ vs.	O
 blue-collar	B-NP
 Bostonians	I-NP
 in	O
-``	B-NP
-Cheers	I-NP
+``	 O
+Cheers	 B-NP
 ''	O
 ;	O
 children	B-NP
@@ -39152,12 +39152,12 @@ the	B-NP
 differences	I-NP
 that	B-NP
 make	O
-headlines	I-NP
+headlines	 B-NP
 .	O
 
 In	O
 ``	O
-Chicken	I-NP
+Chicken	 B-NP
 Soup	I-NP
 ,	O
 ''	O
@@ -39197,7 +39197,7 @@ Karin	I-NP
 and	O
 her	B-NP
 brother	I-NP
-Michael	O
+Michael	 I-NP
 -LRB-	O
 Brandon	B-NP
 Maggart	I-NP
@@ -39205,22 +39205,22 @@ Maggart	I-NP
 .	O
 
 It	B-NP
-'s	B-NP
+'s	 O
 worth	O
-noting	O
+noting	 B-NP
 that	O
 both	B-NP
 disapproving	I-NP
 relatives	I-NP
 are	O
-immigrants	I-NP
+immigrants	 B-NP
 .	O
 
 At	O
-least	O
+least	 B-NP
 ,	O
 they	B-NP
-both	B-NP
+both	 O
 speak	O
 with	O
 strong	B-NP
@@ -39228,8 +39228,8 @@ accents	I-NP
 ,	O
 as	O
 do	O
-Jackie	I-NP
-and	O
+Jackie	 B-NP
+and	 I-NP
 Maddie	I-NP
 .	O
 
@@ -39241,7 +39241,7 @@ more	O
 obvious	O
 that	O
 ``	O
-Chicken	I-NP
+Chicken	 B-NP
 Soup	I-NP
 ''	O
 is	O
@@ -39355,8 +39355,8 @@ sitcom	I-NP
 called	O
 ``	O
 Bridget	B-NP
-Loves	I-NP
-Bernie	I-NP
+Loves	 O
+Bernie	 B-NP
 ,	O
 ''	O
 whose	B-NP
@@ -39383,8 +39383,8 @@ Clearly	O
 the	B-NP
 question	I-NP
 with	O
-``	B-NP
-Chicken	I-NP
+``	 O
+Chicken	 B-NP
 Soup	I-NP
 ''	O
 is	O
@@ -39402,7 +39402,7 @@ it	B-NP
 will	O
 simmer	O
 at	O
-all	B-NP
+all	 O
 .	O
 
 So	O
@@ -39412,7 +39412,7 @@ the	B-NP
 bubbles	I-NP
 have	O
 been	O
-few	I-NP
+few	 B-NP
 and	O
 far	O
 between	O
@@ -39440,8 +39440,8 @@ Lear	I-NP
 ,	O
 to	O
 preach	O
-about	B-NP
-social	I-NP
+about	 O
+social	 B-NP
 issues	I-NP
 .	O
 
@@ -39493,7 +39493,7 @@ as	O
 a	B-NP
 salesman	I-NP
 in	O
-order	B-NP
+order	 O
 to	O
 become	O
 a	B-NP
@@ -39547,12 +39547,12 @@ into	O
 his	B-NP
 standup	I-NP
 mode	I-NP
-and	I-NP
-starts	I-NP
+and	 O
+starts	 O
 meting	O
 out	O
 that	B-NP
-old-fashioned	B-NP
+old-fashioned	 I-NP
 Jewish	I-NP
 mischief	I-NP
 to	O
@@ -39606,9 +39606,9 @@ producers	I-NP
 start	O
 putting	O
 together	O
-episodes	I-NP
-about	B-NP
-topics	I-NP
+episodes	 B-NP
+about	 O
+topics	 B-NP
 like	O
 the	B-NP
 Catholic-Jewish	I-NP
@@ -39667,7 +39667,7 @@ with	O
 some	B-NP
 line	I-NP
 about	O
-``	B-NP
+``	 O
 caring	O
 for	O
 other	B-NP
@@ -39676,7 +39676,7 @@ people	I-NP
 that	B-NP
 would	O
 sound	O
-shmaltzy	B-NP
+shmaltzy	 O
 on	O
 the	B-NP
 lips	I-NP
@@ -39771,7 +39771,7 @@ added	O
 ,	O
 ``	O
 remains	O
-well-balanced	I-NP
+well-balanced	 O
 and	O
 the	B-NP
 outlook	I-NP
@@ -39787,7 +39787,7 @@ Sound	O
 familiar	O
 ?	O
 
-Here	B-NP
+Here	 O
 's	O
 what	B-NP
 Ronald	B-NP
@@ -39815,7 +39815,7 @@ the	B-NP
 economy	I-NP
 ...	O
 all	B-NP
-the	B-NP
+the	 I-NP
 indices	I-NP
 are	O
 up	O
@@ -39823,7 +39823,7 @@ up	O
 ''	O
 
 Heard	O
-that	O
+that	 B-NP
 before	O
 ?	O
 
@@ -39905,8 +39905,8 @@ a	B-NP
 subsidiary	I-NP
 of	O
 N.V	B-NP
-.	O
-Philips	B-NP
+.	 I-NP
+Philips	 I-NP
 of	O
 the	B-NP
 Netherlands	I-NP
@@ -39922,7 +39922,7 @@ Jr.	I-NP
 who	B-NP
 had	O
 been	O
-acting	O
+acting	 B-NP
 chief	I-NP
 executive	I-NP
 since	O
@@ -39939,7 +39939,7 @@ The	B-NP
 former	I-NP
 president	I-NP
 and	I-NP
-chief	B-NP
+chief	 I-NP
 executive	I-NP
 ,	O
 Eric	B-NP
@@ -39982,13 +39982,13 @@ year	I-NP
 .	O
 
 Late	B-NP
-Friday	B-NP
+Friday	 I-NP
 night	I-NP
 ,	O
 the	B-NP
 Senate	I-NP
 voted	O
-87-7	B-NP
+87-7	 O
 to	O
 approve	O
 an	B-NP
@@ -40036,8 +40036,8 @@ with	O
 special-interest	B-NP
 tax	I-NP
 breaks	I-NP
-and	O
-spending	B-NP
+and	 I-NP
+spending	 I-NP
 increases	I-NP
 .	O
 
@@ -40075,7 +40075,7 @@ Tenn	B-NP
 .	O
 
 But	O
-Senate	I-NP
+Senate	 B-NP
 supporters	I-NP
 of	O
 the	B-NP
@@ -40149,8 +40149,8 @@ No	B-NP
 one	I-NP
 can	O
 predict	O
-exactly	O
-what	B-NP
+exactly	 B-NP
+what	 I-NP
 will	O
 happen	O
 on	O
@@ -40183,14 +40183,14 @@ I	B-NP
 believe	O
 Republicans	B-NP
 and	I-NP
-Democrats	B-NP
+Democrats	 I-NP
 will	O
 work	O
 together	O
 to	O
 get	O
 capital-gains	B-NP
-reform	B-NP
+reform	 I-NP
 this	B-NP
 year	I-NP
 .	O
@@ -40204,7 +40204,7 @@ Richard	I-NP
 Darman	I-NP
 told	O
 reporters	B-NP
-yesterday	O
+yesterday	 B-NP
 that	O
 the	B-NP
 administration	I-NP
@@ -40231,7 +40231,7 @@ do	O
 n't	O
 need	O
 this	B-NP
-as	I-NP
+as	 O
 a	B-NP
 way	I-NP
 to	O
@@ -40302,7 +40302,7 @@ a	B-NP
 capital-gains	I-NP
 tax	I-NP
 cut	I-NP
-less	B-NP
+less	 O
 certain	O
 this	B-NP
 year	I-NP
@@ -40372,7 +40372,7 @@ there	B-NP
 are	O
 n't	O
 any	B-NP
-``	O
+``	 I-NP
 plans	I-NP
 to	O
 produce	O
@@ -40400,10 +40400,10 @@ a	B-NP
 capital-gains	I-NP
 tax	I-NP
 cut	I-NP
-,	O
-and	O
-perhaps	O
-other	I-NP
+,	 B-NP
+and	 I-NP
+perhaps	 I-NP
+other	 B-NP
 popular	I-NP
 items	I-NP
 stripped	O
@@ -40659,9 +40659,9 @@ stripped	O
 of	O
 many	B-NP
 popular	I-NP
-,	O
-though	O
-revenue-losing	B-NP
+,	 I-NP
+though	 I-NP
+revenue-losing	 I-NP
 ,	I-NP
 provisions	I-NP
 ,	O
@@ -40691,8 +40691,8 @@ breaks	I-NP
 for	O
 low-income	B-NP
 housing	I-NP
-and	I-NP
-research-and-development	I-NP
+and	 O
+research-and-development	 B-NP
 expenditures	I-NP
 .	O
 
@@ -40722,12 +40722,12 @@ to	O
 give	O
 rank-and-file	B-NP
 workers	I-NP
-comparable	O
+comparable	 B-NP
 health	I-NP
 benefits	I-NP
 to	O
 top	B-NP
-paid	O
+paid	 I-NP
 executives	I-NP
 .	O
 
@@ -40852,7 +40852,7 @@ up	O
 so	B-NP
 much	I-NP
 ,	O
-New	I-NP
+New	 B-NP
 Mexico	I-NP
 Sen.	I-NP
 Pete	I-NP
@@ -40861,7 +40861,7 @@ Domenici	I-NP
 the	B-NP
 ranking	I-NP
 Republican	I-NP
-on	O
+on	 B-NP
 the	B-NP
 Senate	I-NP
 Budget	I-NP
@@ -40957,11 +40957,11 @@ a	B-NP
 plan	I-NP
 to	O
 make	O
-permanent	B-NP
-a	I-NP
+permanent	 O
+a	 B-NP
 3	I-NP
 %	I-NP
-excise	B-NP
+excise	 I-NP
 tax	I-NP
 on	O
 long-distance	B-NP
@@ -41036,7 +41036,7 @@ the	B-NP
 maximum	I-NP
 Occupational	I-NP
 Safety	I-NP
-and	O
+and	 I-NP
 Health	I-NP
 Administration	I-NP
 penalties	I-NP
@@ -41129,7 +41129,7 @@ deal	O
 with	O
 other	B-NP
 lawmakers	I-NP
-earlier	O
+earlier	 B-NP
 this	I-NP
 year	I-NP
 during	O
@@ -41142,7 +41142,7 @@ in	O
 the	B-NP
 fiscal	I-NP
 1989	I-NP
-supplemental	B-NP
+supplemental	 I-NP
 spending	I-NP
 bill	I-NP
 .	O
@@ -41177,7 +41177,7 @@ provisions	I-NP
 ,	O
 which	B-NP
 affect	O
-mostly	O
+mostly	 B-NP
 corporations	I-NP
 ,	O
 would	O
@@ -41228,7 +41228,7 @@ in	O
 their	B-NP
 taxable	I-NP
 income	I-NP
-dividends	I-NP
+dividends	 B-NP
 paid	O
 to	O
 them	B-NP
@@ -41262,13 +41262,13 @@ loophole	I-NP
 regarding	O
 employee	B-NP
 stock	I-NP
-ownership	B-NP
+ownership	 I-NP
 plans	I-NP
 ,	O
 effective	O
-June	I-NP
+June	 B-NP
 6	I-NP
-,	O
+,	 I-NP
 1989	I-NP
 ,	O
 that	B-NP
@@ -41287,9 +41287,9 @@ The	B-NP
 measure	I-NP
 repeals	O
 a	O
-50	I-NP
-%	I-NP
-exclusion	I-NP
+50	 O
+%	 O
+exclusion	 B-NP
 given	O
 to	O
 banks	B-NP
@@ -41361,7 +41361,7 @@ reduction	I-NP
 in	O
 airport	B-NP
 and	I-NP
-airway	B-NP
+airway	 I-NP
 taxes	I-NP
 .	O
 
@@ -41416,7 +41416,7 @@ year	I-NP
 --	O
 Withhold	O
 income	B-NP
-taxes	B-NP
+taxes	 I-NP
 from	O
 the	B-NP
 paychecks	I-NP
@@ -41439,9 +41439,9 @@ gasoline	B-NP
 excise	I-NP
 taxes	I-NP
 to	O
-weekly	O
+weekly	 B-NP
 from	O
-semimonthly	O
+semimonthly	 B-NP
 ,	O
 effective	O
 next	B-NP
@@ -41512,7 +41512,7 @@ includes	O
 spending	B-NP
 cuts	I-NP
 and	O
-increases	I-NP
+increases	 B-NP
 in	O
 federal	B-NP
 fees	I-NP
@@ -41620,20 +41620,20 @@ New	B-NP
 York	I-NP
 's	B-NP
 LaGuardia	I-NP
-and	O
+and	 I-NP
 John	I-NP
 F.	I-NP
 Kennedy	I-NP
 International	I-NP
 Airports	I-NP
 ,	O
-O'Hare	I-NP
+O'Hare	 B-NP
 International	I-NP
 Airport	I-NP
 in	O
 Chicago	B-NP
-and	I-NP
-National	I-NP
+and	 O
+National	 B-NP
 Airport	I-NP
 in	O
 Washington	B-NP
@@ -41661,7 +41661,7 @@ Coast	I-NP
 Guard	I-NP
 to	O
 collect	O
-$	O
+$	 B-NP
 50	I-NP
 million	I-NP
 from	O
@@ -41680,13 +41680,13 @@ $	I-NP
 43	I-NP
 million	I-NP
 by	O
-increasing	B-NP
+increasing	 O
 existing	B-NP
 Federal	I-NP
 Communications	I-NP
 Commission	I-NP
 fees	I-NP
-and	O
+and	 I-NP
 penalties	I-NP
 and	O
 establishing	O
@@ -41719,12 +41719,12 @@ response	B-NP
 to	O
 your	B-NP
 overly	I-NP
-optimistic	O
-,	O
-outdated	B-NP
+optimistic	 I-NP
+,	 I-NP
+outdated	 I-NP
 piece	I-NP
 on	O
-how	B-NP
+how	 O
 long	O
 unemployment	B-NP
 lasts	O
@@ -41787,7 +41787,7 @@ I	B-NP
 found	O
 cutbacks	B-NP
 and	I-NP
-layoffs	B-NP
+layoffs	 I-NP
 in	O
 many	B-NP
 companies	I-NP
@@ -41800,7 +41800,7 @@ by	O
 the	B-NP
 ``	I-NP
 new	I-NP
-''	O
+''	 I-NP
 Census	I-NP
 Bureau	I-NP
 report	I-NP
@@ -41856,7 +41856,7 @@ to	O
 tell	O
 your	B-NP
 readers	I-NP
-all	O
+all	 B-NP
 is	O
 well	O
 --	O
@@ -41924,7 +41924,7 @@ one	B-NP
 of	O
 the	B-NP
 most	I-NP
-anxious	O
+anxious	 I-NP
 periods	I-NP
 of	O
 my	B-NP
@@ -41946,7 +41946,7 @@ reality	I-NP
 check	I-NP
 .	O
 
-Reva	I-NP
+Reva	 B-NP
 Levin	I-NP
 
 Cambridge	B-NP
@@ -42005,8 +42005,8 @@ of	O
 this	B-NP
 Beverly	I-NP
 Hills	I-NP
-,	O
-Calif.	B-NP
+,	 I-NP
+Calif.	 I-NP
 ,	I-NP
 thrift	I-NP
 ,	O
@@ -42017,8 +42017,8 @@ the	B-NP
 market	I-NP
 for	O
 low-grade	B-NP
-,	O
-high-yield	B-NP
+,	 I-NP
+high-yield	 I-NP
 securities	I-NP
 .	O
 
@@ -42036,10 +42036,10 @@ thrift	I-NP
 subordinated	I-NP
 debt	I-NP
 to	O
-B-2	O
+B-2	 B-NP
 from	O
 Ba-2	B-NP
-and	I-NP
+and	 O
 will	O
 keep	O
 the	B-NP
@@ -42047,13 +42047,13 @@ debt	I-NP
 under	O
 review	B-NP
 for	O
-possible	O
+possible	 B-NP
 further	I-NP
 downgrade	I-NP
 .	O
 
 Columbia	B-NP
-Savings	O
+Savings	 I-NP
 is	O
 a	B-NP
 major	I-NP
@@ -42086,7 +42086,7 @@ years	B-NP
 
 Columbia	B-NP
 Savings	I-NP
-officials	O
+officials	 I-NP
 were	O
 n't	O
 available	O
@@ -42120,7 +42120,7 @@ rating	I-NP
 to	O
 B-2	B-NP
 from	O
-Ba-3	O
+Ba-3	 B-NP
 on	O
 less	B-NP
 than	I-NP
@@ -42142,7 +42142,7 @@ concern	I-NP
 said	O
 Franklin	B-NP
 's	B-NP
-``	O
+``	 I-NP
 troubled	I-NP
 diversification	I-NP
 record	I-NP
@@ -42205,7 +42205,7 @@ it	B-NP
 was	O
 a	B-NP
 little	I-NP
-premature	I-NP
+premature	 O
 on	O
 their	B-NP
 part	I-NP
@@ -42219,7 +42219,7 @@ safe	O
 to	O
 go	O
 back	O
-into	B-NP
+into	 O
 stocks	B-NP
 ,	O
 Wall	B-NP
@@ -42237,7 +42237,7 @@ this	B-NP
 signal	O
 another	B-NP
 Black	I-NP
-Monday	B-NP
+Monday	 I-NP
 is	O
 coming	O
 ?	O
@@ -42245,7 +42245,7 @@ coming	O
 Or	O
 is	O
 this	B-NP
-an	I-NP
+an	 B-NP
 extraordinary	I-NP
 buying	I-NP
 opportunity	I-NP
@@ -42264,15 +42264,15 @@ to	O
 be	O
 ?	O
 
-Here	B-NP
+Here	 O
 's	O
 what	B-NP
 several	B-NP
 leading	I-NP
 market	I-NP
 experts	I-NP
-and	O
-money	B-NP
+and	 I-NP
+money	 I-NP
 managers	I-NP
 say	O
 about	O
@@ -42300,7 +42300,7 @@ I	B-NP
 the	B-NP
 only	I-NP
 one	I-NP
-who	I-NP
+who	 B-NP
 said	O
 there	B-NP
 would	O
@@ -42324,8 +42324,8 @@ Granville	I-NP
 once	O
 a	B-NP
 widely	I-NP
-followed	O
-market	B-NP
+followed	 I-NP
+market	 I-NP
 guru	I-NP
 and	O
 still	O
@@ -42367,8 +42367,8 @@ but	O
 technically	O
 it	B-NP
 is	O
-just	O
-the	B-NP
+just	 B-NP
+the	 I-NP
 same	I-NP
 .	O
 
@@ -42417,7 +42417,7 @@ of	O
 going	O
 to	O
 2200	B-NP
-this	I-NP
+this	 B-NP
 month	I-NP
 .	O
 ''	O
@@ -42431,13 +42431,13 @@ n't	O
 even	O
 think	O
 of	O
-buying	O
+buying	 B-NP
 until	O
 at	B-NP
-least	O
+least	 I-NP
 600	I-NP
-to	O
-700	B-NP
+to	 I-NP
+700	 I-NP
 stocks	I-NP
 have	O
 hit	O
@@ -42450,7 +42450,7 @@ stocks	I-NP
 hit	O
 new	B-NP
 lows	I-NP
-Friday	I-NP
+Friday	 B-NP
 .	O
 
 ``	O
@@ -42534,12 +42534,12 @@ occurred	O
 in	O
 1978	B-NP
 and	I-NP
-1979	B-NP
+1979	 I-NP
 .	O
 
 Now	O
 ,	O
-as	B-NP
+as	 O
 in	O
 those	B-NP
 two	I-NP
@@ -42562,7 +42562,7 @@ will	O
 be	O
 short-lived	O
 and	O
-contained	I-NP
+contained	 O
 .	O
 
 ``	O
@@ -42570,14 +42570,14 @@ Those	B-NP
 corrections	I-NP
 lasted	O
 one	B-NP
-to	O
-four	B-NP
+to	 I-NP
+four	 I-NP
 weeks	I-NP
 and	O
 took	O
 the	B-NP
 market	I-NP
-10%-12	I-NP
+10%-12	 B-NP
 %	I-NP
 down	O
 ,	O
@@ -42589,8 +42589,8 @@ says	O
 ``	O
 This	B-NP
 is	O
-exactly	O
-the	B-NP
+exactly	 B-NP
+the	 I-NP
 same	I-NP
 thing	I-NP
 ,	O
@@ -42646,10 +42646,10 @@ stock	I-NP
 now	O
 sells	O
 for	O
-about	B-NP
-12.5	I-NP
-times	I-NP
-companies	I-NP
+about	 O
+12.5	 O
+times	 O
+companies	 B-NP
 '	B-NP
 earnings	I-NP
 .	O
@@ -42675,7 +42675,7 @@ within	O
 the	B-NP
 range	I-NP
 of	O
-``	B-NP
+``	 O
 fair	B-NP
 value	I-NP
 .	O
@@ -42906,9 +42906,9 @@ Average	I-NP
 down	O
 to	O
 around	B-NP
-2000	B-NP
-sometime	O
-next	B-NP
+2000	 I-NP
+sometime	 B-NP
+next	 I-NP
 year	I-NP
 .	O
 
@@ -42930,8 +42930,8 @@ says	O
 I	B-NP
 guess	O
 that	B-NP
-'s	B-NP
-my	I-NP
+'s	 O
+my	 B-NP
 forecast	I-NP
 .	O
 ''	O
@@ -42965,7 +42965,7 @@ that	B-NP
 the	B-NP
 case	I-NP
 at	O
-all	B-NP
+all	 O
 ,	O
 ''	O
 says	O
@@ -42976,7 +42976,7 @@ a	B-NP
 partner	I-NP
 at	O
 Goldman	B-NP
-,	O
+,	 I-NP
 Sachs	I-NP
 &	I-NP
 Co.	I-NP
@@ -43022,8 +43022,8 @@ the	B-NP
 market	I-NP
 to	O
 open	O
-weaker	B-NP
-Monday	I-NP
+weaker	 O
+Monday	 B-NP
 ,	O
 but	O
 then	O
@@ -43043,7 +43043,7 @@ major	I-NP
 differences	I-NP
 between	O
 now	O
-and	I-NP
+and	 O
 two	B-NP
 years	I-NP
 ago	O
@@ -43086,14 +43086,14 @@ in	O
 any	B-NP
 danger	I-NP
 of	O
-overheating	O
+overheating	 B-NP
 .	O
 
 But	O
 the	B-NP
 economy	I-NP
 's	B-NP
-slower	O
+slower	 I-NP
 growth	I-NP
 this	B-NP
 year	I-NP
@@ -43298,13 +43298,13 @@ objects	I-NP
 of	O
 takeovers	B-NP
 or	O
-feared	I-NP
+feared	 B-NP
 takeovers	I-NP
 with	O
 huge	B-NP
 amounts	I-NP
 of	O
-debt	B-NP
+debt	 O
 rather	O
 than	O
 equity	B-NP
@@ -43313,7 +43313,7 @@ equity	B-NP
 This	B-NP
 has	O
 both	O
-made	B-NP
+made	 O
 investors	B-NP
 uneasy	O
 and	O
@@ -43394,7 +43394,7 @@ New	B-NP
 York	I-NP
 money	I-NP
 manager	I-NP
-Mario	B-NP
+Mario	 I-NP
 Gabelli	I-NP
 ,	O
 an	B-NP
@@ -43405,7 +43405,7 @@ takeover	B-NP
 candidates	I-NP
 ,	O
 says	O
-that	B-NP
+that	 O
 takeovers	B-NP
 are	O
 n't	O
@@ -43480,16 +43480,16 @@ up	O
 35	B-NP
 %	I-NP
 since	O
--LCB-	B-NP
-President	I-NP
+-LCB-	 O
+President	 O
 -RCB-	O
-Bush	I-NP
+Bush	 B-NP
 took	O
 office	B-NP
 ,	O
 ''	O
 Mr.	B-NP
-Gabelli	B-NP
+Gabelli	 I-NP
 says	O
 ,	O
 so	O
@@ -43532,7 +43532,7 @@ that	B-NP
 were	O
 thrown	O
 out	O
-just	B-NP
+just	 O
 on	O
 an	B-NP
 emotional	I-NP
@@ -43543,8 +43543,8 @@ great	I-NP
 opportunity	I-NP
 -LCB-	O
 this	O
--RCB-	I-NP
-week	I-NP
+-RCB-	 O
+week	 B-NP
 for	O
 guys	B-NP
 like	O
@@ -43587,9 +43587,9 @@ of	O
 finance	B-NP
 at	O
 Columbia	B-NP
-University	O
+University	 I-NP
 and	O
-former	I-NP
+former	 B-NP
 co-manager	I-NP
 of	O
 one	B-NP
@@ -43597,7 +43597,7 @@ of	O
 the	B-NP
 most	I-NP
 successful	I-NP
-hedge	B-NP
+hedge	 I-NP
 funds	I-NP
 in	O
 history	B-NP
@@ -43612,7 +43612,7 @@ sees	O
 economic	B-NP
 problems	I-NP
 ,	O
-financial	I-NP
+financial	 B-NP
 problems	I-NP
 ''	O
 ahead	O
@@ -43674,7 +43674,7 @@ that	B-NP
 will	O
 add	O
 to	O
-inflationary	I-NP
+inflationary	 B-NP
 pressures	I-NP
 in	O
 the	B-NP
@@ -43711,8 +43711,8 @@ sees	O
 how	O
 the	B-NP
 London	I-NP
-and	O
-Tokyo	B-NP
+and	 I-NP
+Tokyo	 I-NP
 markets	I-NP
 go	O
 .	O
@@ -43732,8 +43732,8 @@ to	O
 some	B-NP
 other	I-NP
 stocks	I-NP
---	O
-especially	B-NP
+--	 B-NP
+especially	 I-NP
 utilities	B-NP
 ,	O
 which	B-NP
@@ -43766,7 +43766,7 @@ crash	I-NP
 Queens	B-NP
 newsletter	I-NP
 writer	I-NP
-Francis	B-NP
+Francis	 I-NP
 X.	I-NP
 Curzio	I-NP
 actually	O
@@ -43779,7 +43779,7 @@ in	O
 writing	B-NP
 in	O
 September	B-NP
-1987	B-NP
+1987	 I-NP
 that	O
 the	B-NP
 Dow	I-NP
@@ -43888,7 +43888,7 @@ Terrizzi	I-NP
 president	B-NP
 and	O
 managing	B-NP
-director	B-NP
+director	 I-NP
 of	O
 Renaissance	B-NP
 Investment	I-NP
@@ -43913,7 +43913,7 @@ criticism	I-NP
 from	O
 many	B-NP
 clients	I-NP
-earlier	O
+earlier	 B-NP
 this	I-NP
 year	I-NP
 because	O
@@ -43946,9 +43946,9 @@ entirely	O
 in	O
 cash	B-NP
 equivalents	I-NP
-,	O
-primarily	O
-U.S.	I-NP
+,	 B-NP
+primarily	 I-NP
+U.S.	 B-NP
 Treasury	I-NP
 bills	I-NP
 .	O
@@ -43998,7 +43998,7 @@ alleging	O
 .	O
 That	O
 your	B-NP
-Sept.	B-NP
+Sept.	 I-NP
 28	I-NP
 editorial	I-NP
 ``	O
@@ -44022,12 +44022,12 @@ factually	O
 accurate	O
 and	O
 deliberately	O
-elucidative	I-NP
+elucidative	 O
 .	O
 
 2	O
 .	O
-That	I-NP
+That	 O
 Mr.	B-NP
 Lantos	I-NP
 supported	O
@@ -44121,9 +44121,9 @@ guess	I-NP
 ,	O
 he	B-NP
 used	O
-better	O
+better	 B-NP
 than	I-NP
-5,000	B-NP
+5,000	 I-NP
 words	I-NP
 heaping	O
 scorn	B-NP
@@ -44182,7 +44182,7 @@ being	O
 held	O
 up	O
 to	O
-scorn	I-NP
+scorn	 B-NP
 for	O
 taking	O
 the	B-NP
@@ -44209,7 +44209,7 @@ Lantos	I-NP
 
 3	O
 .	O
-That	B-NP
+That	 O
 his	B-NP
 ``	I-NP
 committee	I-NP
@@ -44236,8 +44236,8 @@ are	O
 not	O
 a	B-NP
 court	I-NP
-...	I-NP
-etc	B-NP
+...	 O
+etc	 O
 .	O
 ''	O
 
@@ -44248,9 +44248,9 @@ rubbish	I-NP
 By	O
 any	B-NP
 ``	I-NP
-reasonable	B-NP
+reasonable	 I-NP
 man	I-NP
-''	O
+''	 I-NP
 criterion	I-NP
 ,	O
 Mr.	B-NP
@@ -44295,8 +44295,8 @@ to	O
 proceed	O
 ,	O
 just	O
-somewhat	I-NP
-different	I-NP
+somewhat	 O
+different	 O
 from	O
 standard	B-NP
 American	I-NP
@@ -44320,7 +44320,7 @@ Ah	O
 ,	O
 yes	O
 ,	O
-something	O
+something	 B-NP
 called	O
 a	B-NP
 Star	I-NP
@@ -44333,7 +44333,7 @@ course	B-NP
 Mr.	B-NP
 Lantos	I-NP
 doth	O
-protest	I-NP
+protest	 O
 that	O
 his	B-NP
 subcommittee	I-NP
@@ -44354,7 +44354,7 @@ true	O
 .	O
 
 Everything	B-NP
-that	O
+that	 B-NP
 Mr.	B-NP
 Lantos	I-NP
 says	O
@@ -44410,13 +44410,13 @@ activity	I-NP
 
 Why	O
 not	O
-simply	O
+simply	 B-NP
 questions	I-NP
 designed	O
 to	O
 identify	O
 sources	B-NP
-and	O
+and	 I-NP
 causes	I-NP
 of	O
 waste	B-NP
@@ -44424,7 +44424,7 @@ and	I-NP
 inefficiency	I-NP
 ?	O
 
-Such	B-NP
+Such	 O
 as	O
 ,	O
 what	B-NP
@@ -44434,8 +44434,8 @@ Congress	B-NP
 wanted	O
 to	O
 know	O
-about	B-NP
-$	I-NP
+about	 O
+$	 B-NP
 400	I-NP
 toilet	I-NP
 seats	I-NP
@@ -44460,23 +44460,23 @@ wash	O
 
 4	O
 .	O
-That	B-NP
+That	 O
 the	B-NP
 Journal	I-NP
 defends	O
 ``	O
 the	B-NP
 sleaze	I-NP
-,	O
-fraud	B-NP
-,	O
-waste	B-NP
-,	O
-embezzlement	B-NP
-,	O
+,	 I-NP
+fraud	 I-NP
+,	 I-NP
+waste	 I-NP
+,	 I-NP
+embezzlement	 I-NP
+,	 I-NP
 influence-peddling	I-NP
-and	O
-abuse	B-NP
+and	 I-NP
+abuse	 I-NP
 of	O
 the	B-NP
 public	I-NP
@@ -44492,7 +44492,7 @@ of	O
 HUD	B-NP
 ,	O
 ''	O
-etc.	I-NP
+etc.	 B-NP
 and	O
 so	O
 forth	O
@@ -44518,7 +44518,7 @@ waste	B-NP
 ,	O
 embezzlement	B-NP
 ,	O
-influence-peddling	I-NP
+influence-peddling	 B-NP
 and	O
 abuse	B-NP
 of	O
@@ -44534,7 +44534,7 @@ appropriate	B-NP
 constitutional	I-NP
 safeguards	I-NP
 and	O
-practical	O
+practical	 B-NP
 common	I-NP
 sense	I-NP
 .	O
@@ -44556,7 +44556,7 @@ of	O
 articles	B-NP
 ,	O
 is	O
-not	O
+not	 B-NP
 the	B-NP
 likes	I-NP
 of	O
@@ -44629,7 +44629,7 @@ slapped	O
 .	O
 
 It	B-NP
-'s	B-NP
+'s	 O
 when	O
 such	B-NP
 slapping	I-NP
@@ -44668,7 +44668,7 @@ been	O
 pursued	O
 is	O
 a	B-NP
-far	O
+far	 I-NP
 greater	I-NP
 danger	I-NP
 to	O
@@ -44677,7 +44677,7 @@ notions	I-NP
 of	O
 liberty	B-NP
 and	I-NP
-freedom	B-NP
+freedom	 I-NP
 than	O
 any	B-NP
 incompetency	I-NP
@@ -44687,7 +44687,7 @@ and	O
 yes	O
 ,	O
 maybe	O
-criminality	I-NP
+criminality	 B-NP
 -RRB-	O
 within	O
 HUD	B-NP
@@ -44707,12 +44707,12 @@ congressional	I-NP
 hearing	I-NP
 was	O
 when	O
-``	O
-Tail	B-NP
+``	 B-NP
+Tail	 I-NP
 Gunner	I-NP
 Joe	I-NP
-''	O
-McCarthy	B-NP
+''	 I-NP
+McCarthy	 I-NP
 did	O
 his	B-NP
 work	I-NP
@@ -44721,7 +44721,7 @@ work	I-NP
 Raymond	B-NP
 Weber	I-NP
 
-Parsippany	I-NP
+Parsippany	 B-NP
 ,	O
 N.J	B-NP
 .	O
@@ -44875,7 +44875,7 @@ defendant	I-NP
 in	O
 criminal	B-NP
 matters	I-NP
-only	O
+only	 I-NP
 .	O
 
 The	B-NP
@@ -44989,8 +44989,8 @@ has	O
 a	B-NP
 good	I-NP
 faith	I-NP
-and	O
-justifiable	B-NP
+and	 I-NP
+justifiable	 I-NP
 belief	I-NP
 that	O
 his	B-NP
@@ -45105,8 +45105,8 @@ he	B-NP
 held	O
 a	B-NP
 good-faith	I-NP
-,	O
-justifiable	B-NP
+,	 I-NP
+justifiable	 I-NP
 belief	I-NP
 that	O
 his	B-NP
@@ -45195,7 +45195,7 @@ Colo	B-NP
 It	B-NP
 was	O
 Friday	B-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
 ,	O
 and	O
@@ -45208,20 +45208,20 @@ nearly	B-NP
 points	I-NP
 .	O
 
-Just	O
-a	B-NP
+Just	 B-NP
+a	 I-NP
 coincidence	I-NP
 ?	O
 
 Or	O
 is	O
-triskaidekaphobia	I-NP
+triskaidekaphobia	 B-NP
 --	O
 fear	B-NP
 of	O
 the	B-NP
 number	I-NP
-13	I-NP
+13	 B-NP
 --	O
 justified	O
 ?	O
@@ -45232,7 +45232,7 @@ academia	B-NP
 a	B-NP
 so-called	I-NP
 Friday	I-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
 effect	I-NP
 has	O
@@ -45250,10 +45250,10 @@ professors	I-NP
 Robert	B-NP
 Kolb	I-NP
 and	O
-Ricardo	I-NP
+Ricardo	 B-NP
 Rodriguez	I-NP
 ,	O
-professors	I-NP
+professors	 B-NP
 of	O
 finance	B-NP
 at	O
@@ -45271,7 +45271,7 @@ is	O
 spooked	O
 by	O
 Friday	B-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
 .	O
 
@@ -45308,14 +45308,14 @@ the	B-NP
 market	I-NP
 took	O
 falls	B-NP
-nine	I-NP
+nine	 B-NP
 times	I-NP
 in	O
 a	B-NP
 row	I-NP
 on	O
 Friday	B-NP
-the	B-NP
+the	 I-NP
 you-know-what	I-NP
 .	O
 
@@ -45327,8 +45327,8 @@ to	O
 be	O
 a	B-NP
 plus	I-NP
-,	O
-not	O
+,	 B-NP
+not	 I-NP
 a	B-NP
 minus	I-NP
 ,	O
@@ -45355,24 +45355,24 @@ that	O
 the	B-NP
 82	I-NP
 Fridays	I-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
 in	O
 the	B-NP
 1940-1987	I-NP
 period	I-NP
 had	O
-higher	O
-than	O
-average	B-NP
+higher	 B-NP
+than	 I-NP
+average	 I-NP
 returns	I-NP
 --	O
-higher	B-NP
+higher	 O
 even	O
-than	I-NP
+than	 O
 Fridays	B-NP
 in	O
-general	B-NP
+general	 O
 ,	O
 which	B-NP
 tend	O
@@ -45390,9 +45390,9 @@ the	B-NP
 only	I-NP
 other	I-NP
 Friday	I-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
-this	I-NP
+this	 B-NP
 year	I-NP
 ,	O
 the	B-NP
@@ -45415,7 +45415,7 @@ study	I-NP
 ,	O
 titled	O
 Friday	B-NP
-the	B-NP
+the	 I-NP
 13th	I-NP
 ,	O
 Part	B-NP
@@ -45474,7 +45474,7 @@ stock	B-NP
 prices	I-NP
 plummeted	O
 and	O
-trading	I-NP
+trading	 B-NP
 activity	I-NP
 escalated	O
 ,	O
@@ -45488,7 +45488,7 @@ in	O
 over-the-counter	B-NP
 stocks	I-NP
 went	O
-unanswered	B-NP
+unanswered	 O
 .	O
 
 ``	O
@@ -45531,8 +45531,8 @@ Friday	I-NP
 before	O
 Black	B-NP
 Monday	I-NP
-''	I-NP
-two	I-NP
+''	 O
+two	 B-NP
 years	I-NP
 ago	O
 .	O
@@ -45558,8 +45558,8 @@ on	O
 the	B-NP
 New	I-NP
 York	I-NP
-and	O
-American	B-NP
+and	 I-NP
+American	 I-NP
 exchanges	I-NP
 .	O
 
@@ -45581,13 +45581,13 @@ and	O
 its	B-NP
 sixth	I-NP
 worst	I-NP
-ever	O
+ever	 I-NP
 ,	O
 diving	O
 14.90	B-NP
 ,	O
 or	O
-3	I-NP
+3	 B-NP
 %	I-NP
 ,	O
 to	O
@@ -45606,7 +45606,7 @@ last	I-NP
 45	I-NP
 minutes	I-NP
 of	O
-trading	O
+trading	 B-NP
 .	O
 
 By	O
@@ -45655,12 +45655,12 @@ by	O
 its	B-NP
 devastating	I-NP
 46.12-point	I-NP
-,	O
-or	O
-11	B-NP
+,	 I-NP
+or	 I-NP
+11	 I-NP
 %	I-NP
 slide	I-NP
-,	I-NP
+,	 O
 three	B-NP
 days	I-NP
 later	O
@@ -45676,8 +45676,8 @@ shares	I-NP
 ,	O
 which	B-NP
 was	O
-only	O
-the	B-NP
+only	 B-NP
+the	 I-NP
 fifth	I-NP
 busiest	I-NP
 day	I-NP
@@ -45702,7 +45702,7 @@ Oct.	B-NP
 ,	O
 
 ``	O
-There	O
+There	 B-NP
 was	O
 n't	O
 a	B-NP
@@ -45722,17 +45722,17 @@ moved	O
 ''	O
 said	O
 E.E.	B-NP
-``	O
+``	 I-NP
 Buzzy	I-NP
-''	O
+''	 I-NP
 Geduld	I-NP
 ,	O
 president	B-NP
 of	O
 Herzog	B-NP
-,	O
-Heine	B-NP
-,	O
+,	 I-NP
+Heine	 I-NP
+,	 I-NP
 Geduld	I-NP
 ,	O
 a	B-NP
@@ -45771,7 +45771,7 @@ Mr.	B-NP
 King	I-NP
 of	O
 Robinson-Humphrey	B-NP
-and	I-NP
+and	 O
 others	B-NP
 were	O
 quick	O
@@ -45877,11 +45877,11 @@ Friday	I-NP
 There	B-NP
 were	O
 too	B-NP
-many	B-NP
+many	 I-NP
 phones	I-NP
 ringing	O
 and	O
-too	O
+too	 B-NP
 many	I-NP
 things	I-NP
 happening	O
@@ -45915,7 +45915,7 @@ Tarantino	I-NP
 head	B-NP
 of	O
 OTC	B-NP
-trading	I-NP
+trading	 B-NP
 at	O
 Hambrecht	B-NP
 &	I-NP
@@ -46019,7 +46019,7 @@ occur	O
 .	O
 
 On	O
-days	I-NP
+days	 B-NP
 like	O
 Friday	B-NP
 ,	O
@@ -46034,7 +46034,7 @@ sellers	B-NP
 when	O
 no	B-NP
 one	I-NP
-else	I-NP
+else	 O
 is	O
 willing	O
 to	O
@@ -46076,7 +46076,7 @@ makers	I-NP
 themselves	B-NP
 began	O
 dumping	O
-shares	I-NP
+shares	 B-NP
 ,	O
 exacerbating	O
 the	B-NP
@@ -46105,7 +46105,7 @@ But	O
 ,	O
 with	O
 profits	B-NP
-sagging	I-NP
+sagging	 O
 on	O
 Wall	B-NP
 Street	I-NP
@@ -46158,7 +46158,7 @@ Everyone	B-NP
 was	O
 hitting	O
 everyone	B-NP
-else	I-NP
+else	 O
 's	B-NP
 bid	I-NP
 ,	O
@@ -46171,7 +46171,7 @@ So	O
 ,	O
 while	O
 OTC	B-NP
-companies	I-NP
+companies	 B-NP
 incurred	O
 losses	B-NP
 on	O
@@ -46238,7 +46238,7 @@ equity	B-NP
 trading	I-NP
 at	O
 Piper	B-NP
-,	O
+,	 I-NP
 Jaffray	I-NP
 &	I-NP
 Hopwood	I-NP
@@ -46264,9 +46264,9 @@ inventory	I-NP
 is	O
 a	B-NP
 third	I-NP
-smaller	I-NP
+smaller	 O
 now	O
-than	I-NP
+than	 O
 it	B-NP
 was	O
 two	B-NP
@@ -46303,7 +46303,7 @@ despite	O
 the	B-NP
 rush	I-NP
 of	O
-selling	O
+selling	 B-NP
 ,	O
 he	B-NP
 never	O
@@ -46311,7 +46311,7 @@ considered	O
 the	B-NP
 situation	I-NP
 an	B-NP
-``	O
+``	 I-NP
 emergency	I-NP
 .	O
 ''	O
@@ -46320,7 +46320,7 @@ emergency	I-NP
 The	B-NP
 pace	I-NP
 of	O
-trading	I-NP
+trading	 B-NP
 was	O
 orderly	O
 ,	O
@@ -46446,7 +46446,7 @@ Dean	B-NP
 Witter	I-NP
 .	O
 
-More	B-NP
+More	 O
 troubling	O
 is	O
 the	B-NP
@@ -46536,8 +46536,8 @@ OTC	I-NP
 market	I-NP
 --	O
 big	B-NP
-and	O
-small	B-NP
+and	 I-NP
+small	 I-NP
 institutional	I-NP
 investors	I-NP
 ,	O
@@ -46552,7 +46552,7 @@ makers	I-NP
 .	O
 
 But	O
-grateful	I-NP
+grateful	 B-NP
 traders	I-NP
 said	O
 the	B-NP
@@ -46573,9 +46573,9 @@ blocks	B-NP
 of	O
 500,000	B-NP
 shares	I-NP
-or	O
-more	B-NP
-two	I-NP
+or	 I-NP
+more	 I-NP
+two	 B-NP
 years	I-NP
 ago	O
 .	O
@@ -46631,14 +46631,14 @@ a	B-NP
 good	I-NP
 amount	I-NP
 of	O
-selling	O
+selling	 B-NP
 from	O
 institutions	B-NP
-,	O
-but	O
-not	O
-as	O
-much	B-NP
+,	 B-NP
+but	 I-NP
+not	 I-NP
+as	 B-NP
+much	 I-NP
 panic	I-NP
 ,	O
 ''	O
@@ -46683,7 +46683,7 @@ to	O
 buy	O
 some	B-NP
 OTC	I-NP
-stocks	B-NP
+stocks	 I-NP
 whose	B-NP
 prices	I-NP
 were	O
@@ -46721,7 +46721,7 @@ Poor	I-NP
 Index	I-NP
 sent	O
 occasional	B-NP
-``	O
+``	 I-NP
 waves	I-NP
 ``	O
 through	O
@@ -46759,7 +46759,7 @@ tumbled	O
 %	I-NP
 ,	O
 or	O
-19.76	I-NP
+19.76	 B-NP
 ,	O
 to	O
 449.33	B-NP
@@ -46772,7 +46772,7 @@ Index	I-NP
 of	O
 giant	B-NP
 insurance	I-NP
-and	O
+and	 I-NP
 banking	I-NP
 stocks	I-NP
 dropped	O
@@ -46780,7 +46780,7 @@ dropped	O
 %	I-NP
 ,	O
 or	O
-9.31	I-NP
+9.31	 B-NP
 ,	O
 to	O
 462.98	B-NP
@@ -46791,7 +46791,7 @@ OTC	I-NP
 market	I-NP
 has	O
 only	B-NP
-a	B-NP
+a	 I-NP
 handful	I-NP
 of	O
 takeover-related	B-NP
@@ -46849,7 +46849,7 @@ lost	O
 8	B-NP
 %	I-NP
 ,	O
-or	I-NP
+or	 O
 3	B-NP
 1\/2	I-NP
 ,	O
@@ -46865,7 +46865,7 @@ dropped	O
 1\/2	I-NP
 ,	O
 or	O
-5	I-NP
+5	 B-NP
 %	I-NP
 ,	O
 to	O
@@ -46879,7 +46879,7 @@ in	O
 both	B-NP
 issues	I-NP
 was	O
-roughly	B-NP
+roughly	 O
 normal	O
 .	O
 
@@ -46970,14 +46970,14 @@ buyer	I-NP
 of	O
 the	B-NP
 high-risk	I-NP
-,	O
-high-yield	B-NP
+,	 I-NP
+high-yield	 I-NP
 issues	I-NP
 ,	O
 slid	O
 2	B-NP
-to	I-NP
-12	I-NP
+to	 O
+12	 B-NP
 1\/4	I-NP
 .	O
 
@@ -47000,7 +47000,7 @@ Transportation	I-NP
 lost	O
 1	B-NP
 1\/8	I-NP
-to	I-NP
+to	 O
 19	B-NP
 1\/2	I-NP
 ;	O
@@ -47012,7 +47012,7 @@ of	O
 Jaguar	B-NP
 were	O
 off	O
-1\/4	I-NP
+1\/4	 B-NP
 to	O
 10	B-NP
 1\/4	I-NP
@@ -47033,8 +47033,8 @@ fell	O
 to	O
 45	B-NP
 3\/4	I-NP
-and	I-NP
-Nike	I-NP
+and	 O
+Nike	 B-NP
 dropped	O
 2	B-NP
 1\/4	I-NP
@@ -47044,10 +47044,10 @@ to	O
 .	O
 
 Friday	B-NP
-,	O
-October	B-NP
+,	 I-NP
+October	 I-NP
 13	I-NP
-,	O
+,	 I-NP
 1989	I-NP
 
 The	B-NP
@@ -47116,7 +47116,7 @@ low	O
 5\/8	I-NP
 %	I-NP
 near	O
-closing	I-NP
+closing	 B-NP
 bid	I-NP
 ,	O
 8	B-NP
@@ -47140,7 +47140,7 @@ $	B-NP
 1	I-NP
 million	I-NP
 or	I-NP
-more	B-NP
+more	 I-NP
 .	O
 
 Source	B-NP
@@ -47151,7 +47151,7 @@ Prebon	I-NP
 U.S.A	O
 .	O
 -RRB-	O
-Inc	I-NP
+Inc	 B-NP
 .	O
 
 DISCOUNT	B-NP
@@ -47185,8 +47185,8 @@ MONEY	I-NP
 9	B-NP
 3\/4	I-NP
 %	I-NP
-to	O
-10	B-NP
+to	 I-NP
+10	 I-NP
 %	I-NP
 .	O
 
@@ -47217,28 +47217,28 @@ Corp.	I-NP
 %	I-NP
 30	B-NP
 to	I-NP
-44	B-NP
+44	 I-NP
 days	I-NP
 ;	O
 8.55	B-NP
 %	I-NP
 45	B-NP
 to	I-NP
-59	B-NP
+59	 I-NP
 days	I-NP
 ;	O
 8.375	B-NP
 %	I-NP
 60	B-NP
 to	I-NP
-79	B-NP
+79	 I-NP
 days	I-NP
 ;	O
 8.50	B-NP
 %	I-NP
 80	B-NP
-to	O
-89	B-NP
+to	 I-NP
+89	 I-NP
 days	I-NP
 ;	O
 8.25	B-NP
@@ -47251,7 +47251,7 @@ days	I-NP
 8.125	B-NP
 %	I-NP
 120	B-NP
-to	O
+to	 I-NP
 149	I-NP
 days	I-NP
 ;	O
@@ -47265,7 +47265,7 @@ days	I-NP
 7.625	B-NP
 %	I-NP
 180	B-NP
-to	O
+to	 I-NP
 270	I-NP
 days	I-NP
 .	O
@@ -47362,7 +47362,7 @@ of	O
 $	B-NP
 1	I-NP
 million	I-NP
-and	I-NP
+and	 O
 more	B-NP
 .	O
 
@@ -47434,7 +47434,7 @@ days	I-NP
 .	O
 
 Negotiable	B-NP
-,	O
+,	 I-NP
 bank-backed	I-NP
 business	I-NP
 credit	I-NP
@@ -47454,8 +47454,8 @@ EURODOLLARS	I-NP
 8	B-NP
 13\/16	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 11\/16	I-NP
 %	I-NP
 one	B-NP
@@ -47464,8 +47464,8 @@ month	I-NP
 8	B-NP
 13\/16	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 11\/16	I-NP
 %	I-NP
 two	B-NP
@@ -47474,8 +47474,8 @@ months	I-NP
 8	B-NP
 13\/16	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 11\/16	I-NP
 %	I-NP
 three	B-NP
@@ -47484,8 +47484,8 @@ months	I-NP
 8	B-NP
 3\/4	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 5\/8	I-NP
 %	I-NP
 four	B-NP
@@ -47494,8 +47494,8 @@ months	I-NP
 8	B-NP
 11\/16	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 9\/16	I-NP
 %	I-NP
 five	B-NP
@@ -47504,8 +47504,8 @@ months	I-NP
 8	B-NP
 5\/8	I-NP
 %	I-NP
-to	O
-8	B-NP
+to	 I-NP
+8	 I-NP
 1\/2	I-NP
 %	I-NP
 six	B-NP
@@ -47513,9 +47513,9 @@ months	I-NP
 .	O
 
 LONDON	B-NP
-INTERBANK	O
+INTERBANK	 I-NP
 OFFERED	I-NP
-RATES	B-NP
+RATES	 I-NP
 -LRB-	O
 LIBOR	B-NP
 -RRB-	O
@@ -47530,7 +47530,7 @@ month	I-NP
 8	B-NP
 3\/4	I-NP
 %	I-NP
-three	I-NP
+three	 B-NP
 months	I-NP
 ;	O
 8	B-NP
@@ -47549,9 +47549,9 @@ year	I-NP
 The	B-NP
 average	I-NP
 of	O
-interbank	O
-offered	O
-rates	B-NP
+interbank	 B-NP
+offered	 I-NP
+rates	 I-NP
 for	O
 dollar	B-NP
 deposits	I-NP
@@ -47590,7 +47590,7 @@ Switzerland	B-NP
 %	I-NP
 ;	O
 Britain	B-NP
-15	I-NP
+15	 B-NP
 %	I-NP
 .	O
 
@@ -47618,8 +47618,8 @@ Results	B-NP
 of	O
 the	B-NP
 Tuesday	I-NP
-,	O
-October	B-NP
+,	 I-NP
+October	 I-NP
 10	I-NP
 ,	I-NP
 1989	I-NP
@@ -47755,7 +47755,7 @@ mortgages	I-NP
 6\/2	B-NP
 rate	I-NP
 capped	I-NP
-one-year	B-NP
+one-year	 I-NP
 adjustable	I-NP
 rate	I-NP
 mortgages	I-NP
@@ -47791,8 +47791,8 @@ the	B-NP
 past	I-NP
 30	I-NP
 days	I-NP
-;	O
-not	O
+;	 B-NP
+not	 I-NP
 a	B-NP
 forecast	I-NP
 of	O
@@ -47830,7 +47830,7 @@ plan	O
 to	O
 buy	O
 more	B-NP
-today	I-NP
+today	 B-NP
 .	O
 
 Rightly	O
@@ -47872,7 +47872,7 @@ To	O
 be	O
 sure	O
 ,	O
-big	I-NP
+big	 B-NP
 investors	I-NP
 might	O
 put	O
@@ -47886,7 +47886,7 @@ if	O
 stocks	B-NP
 open	O
 sharply	O
-lower	I-NP
+lower	 O
 today	B-NP
 .	O
 
@@ -47932,7 +47932,7 @@ going	O
 out	O
 and	O
 buying	O
-stocks	I-NP
+stocks	 B-NP
 when	O
 the	B-NP
 panic	I-NP
@@ -47967,11 +47967,11 @@ Mr.	B-NP
 Rogers	I-NP
 spent	O
 half	B-NP
-his	B-NP
+his	 I-NP
 cash	I-NP
 on	O
 hand	B-NP
-Friday	I-NP
+Friday	 B-NP
 for	O
 ``	O
 our	B-NP
@@ -48000,7 +48000,7 @@ further	O
 Denver-based	B-NP
 portfolio	I-NP
 manager	I-NP
-James	B-NP
+James	 I-NP
 Craig	I-NP
 was	O
 n't	O
@@ -48170,7 +48170,7 @@ market	B-NP
 storms	I-NP
 without	O
 jettisoning	O
-stock	I-NP
+stock	 B-NP
 .	O
 
 Most	O
@@ -48178,8 +48178,8 @@ often	O
 ,	O
 they	B-NP
 do	O
-just	O
-that	O
+just	 B-NP
+that	 I-NP
 ,	O
 because	O
 stocks	B-NP
@@ -48258,7 +48258,7 @@ to	O
 its	B-NP
 stock	I-NP
 portfolio	I-NP
-two	I-NP
+two	 B-NP
 years	I-NP
 ago	O
 .	O
@@ -48288,8 +48288,8 @@ to	O
 short-term	B-NP
 events	I-NP
 ,	O
-good	B-NP
-or	I-NP
+good	 O
+or	 O
 bad	O
 ,	O
 ''	O
@@ -48305,7 +48305,7 @@ for	O
 the	B-NP
 pension	I-NP
 consultants	I-NP
-Wilshire	I-NP
+Wilshire	 B-NP
 Associates	I-NP
 in	O
 Santa	B-NP
@@ -48368,8 +48368,8 @@ index	I-NP
 ,	O
 have	O
 been	O
-stellar	I-NP
-performers	B-NP
+stellar	 B-NP
+performers	 I-NP
 this	B-NP
 year	I-NP
 ,	O
@@ -48385,14 +48385,14 @@ excluding	O
 dividends	B-NP
 .	O
 
-Even	B-NP
-Friday	I-NP
+Even	 O
+Friday	 B-NP
 's	B-NP
 slump	I-NP
 leaves	O
 investors	B-NP
 ahead	O
-more	O
+more	 B-NP
 than	I-NP
 20	I-NP
 %	I-NP
@@ -48455,8 +48455,8 @@ could	O
 go	O
 down	O
 800	B-NP
-or	O
-900	B-NP
+or	 I-NP
+900	 I-NP
 points	I-NP
 in	O
 the	B-NP
@@ -48472,7 +48472,7 @@ before	O
 you	B-NP
 can	O
 turn	O
-around	B-NP
+around	 O
 .	O
 ''	O
 
@@ -48519,7 +48519,7 @@ the	B-NP
 `	I-NP
 portfolio	I-NP
 insurance	I-NP
-'	O
+'	 I-NP
 phenomenon	I-NP
 overlaid	O
 on	O
@@ -48529,7 +48529,7 @@ rest	I-NP
 ''	O
 
 Most	B-NP
-institutional	B-NP
+institutional	 I-NP
 investors	I-NP
 have	O
 abandoned	O
@@ -48551,9 +48551,9 @@ the	B-NP
 crash	I-NP
 .	O
 
-Not	B-NP
+Not	 O
 really	O
-insurance	I-NP
+insurance	 B-NP
 ,	O
 this	B-NP
 tactic	I-NP
@@ -48565,7 +48565,7 @@ the	B-NP
 blow	I-NP
 of	O
 declining	B-NP
-stock	B-NP
+stock	 I-NP
 prices	I-NP
 and	O
 generate	O
@@ -48573,7 +48573,7 @@ an	B-NP
 offsetting	I-NP
 profit	I-NP
 by	O
-selling	B-NP
+selling	 O
 waves	B-NP
 of	O
 S&P	B-NP
@@ -48608,9 +48608,9 @@ stock	B-NP
 buyers	I-NP
 disappeared	O
 and	O
-stock	I-NP
+stock	 B-NP
 and	I-NP
-futures	B-NP
+futures	 I-NP
 prices	I-NP
 became	O
 disconnected	O
@@ -48625,7 +48625,7 @@ market	B-NP
 conditions	I-NP
 were	O
 grim	O
-Friday	I-NP
+Friday	 B-NP
 ,	O
 money	B-NP
 managers	I-NP
@@ -48635,10 +48635,10 @@ said	O
 Neil	B-NP
 Weisman	I-NP
 ,	O
-whose	B-NP
-New	I-NP
-York-based	I-NP
-Chilmark	I-NP
+whose	 O
+New	 O
+York-based	 O
+Chilmark	 B-NP
 Capital	I-NP
 Partners	I-NP
 had	O
@@ -48653,7 +48653,7 @@ million	I-NP
 investment	I-NP
 pool	I-NP
 to	O
-cash	O
+cash	 B-NP
 in	O
 recent	B-NP
 months	I-NP
@@ -48732,7 +48732,7 @@ next	I-NP
 few	I-NP
 days	I-NP
 before	O
-declining	B-NP
+declining	 O
 again	O
 ,	O
 trapping	O
@@ -48764,7 +48764,7 @@ a	B-NP
 reprieve	I-NP
 for	O
 money	B-NP
-managers	B-NP
+managers	 I-NP
 whose	B-NP
 investment	I-NP
 styles	I-NP
@@ -48779,8 +48779,8 @@ market	I-NP
 rally	I-NP
 .	O
 
-Especially	B-NP
-gleeful	I-NP
+Especially	 O
+gleeful	 O
 were	O
 the	B-NP
 short	I-NP
@@ -48806,7 +48806,7 @@ shares	I-NP
 ,	O
 hoping	O
 to	O
-profit	B-NP
+profit	 O
 by	O
 replacing	O
 them	B-NP
@@ -48856,8 +48856,8 @@ point	I-NP
 .	O
 
 All	B-NP
-that	B-NP
-now	B-NP
+that	 I-NP
+now	 O
 has	O
 changed	O
 .	O
@@ -48903,7 +48903,7 @@ and	I-NP
 Drug	I-NP
 Administration	I-NP
 spokesman	I-NP
-Jeff	B-NP
+Jeff	 I-NP
 Nesbit	I-NP
 said	O
 the	B-NP
@@ -48931,21 +48931,21 @@ Baltimore	B-NP
 .	O
 
 Neither	B-NP
-Vitarine	I-NP
+Vitarine	 B-NP
 nor	O
 any	B-NP
 of	O
 the	B-NP
 Springfield	I-NP
 Gardens	I-NP
-,	O
-N.Y.	B-NP
+,	 I-NP
+N.Y.	 I-NP
 ,	I-NP
 company	I-NP
 's	B-NP
 officials	I-NP
-or	O
-employees	B-NP
+or	 I-NP
+employees	 I-NP
 have	O
 been	O
 charged	O
@@ -49066,9 +49066,9 @@ down	O
 as	O
 direct	B-NP
 customers	I-NP
-,	O
-mostly	O
-wholesalers	I-NP
+,	 B-NP
+mostly	 I-NP
+wholesalers	 B-NP
 ,	O
 ''	O
 Mr.	B-NP
@@ -49093,8 +49093,8 @@ both	B-NP
 its	I-NP
 100	I-NP
 milligram	I-NP
-and	O
-50	B-NP
+and	 I-NP
+50	 I-NP
 milligram	I-NP
 versions	I-NP
 of	O
@@ -49157,10 +49157,10 @@ The	B-NP
 West	I-NP
 German	I-NP
 retailer	I-NP
-ASKO	I-NP
-Deutsche	B-NP
+ASKO	 B-NP
+Deutsche	 I-NP
 Kaufhaus	I-NP
-AG	B-NP
+AG	 I-NP
 plans	O
 to	O
 challenge	O
@@ -49169,7 +49169,7 @@ legality	I-NP
 of	O
 a	B-NP
 widely	I-NP
-employed	O
+employed	 I-NP
 anti-takeover	I-NP
 defense	I-NP
 of	O
@@ -49207,8 +49207,8 @@ challenge	O
 the	B-NP
 entire	I-NP
 principle	I-NP
-and	O
-practice	B-NP
+and	 I-NP
+practice	 I-NP
 of	O
 companies	B-NP
 issuing	O
@@ -49229,7 +49229,7 @@ stockholders	I-NP
 
 Up	O
 to	O
-now	O
+now	 B-NP
 only	B-NP
 specific	I-NP
 aspects	I-NP
@@ -49291,7 +49291,7 @@ food	I-NP
 retailer	I-NP
 had	O
 n't	O
-reasonable	I-NP
+reasonable	 B-NP
 grounds	I-NP
 to	O
 issue	O
@@ -49307,7 +49307,7 @@ dilute	O
 the	B-NP
 worth	I-NP
 and	I-NP
-voting	B-NP
+voting	 I-NP
 power	I-NP
 of	O
 ASKO	B-NP
@@ -49322,7 +49322,7 @@ its	B-NP
 Dutch	I-NP
 lawyers	I-NP
 ,	O
-ASKO	I-NP
+ASKO	 B-NP
 also	O
 disclosed	O
 it	B-NP
@@ -49339,7 +49339,7 @@ It	B-NP
 was	O
 previously	O
 thought	O
-ASKO	I-NP
+ASKO	 B-NP
 held	O
 a	B-NP
 13.6	I-NP
@@ -49382,7 +49382,7 @@ legal	I-NP
 actions	I-NP
 as	O
 ``	O
-unproductive	I-NP
+unproductive	 O
 ''	O
 to	O
 international	B-NP
@@ -49393,7 +49393,7 @@ retailers	I-NP
 .	O
 
 Chase	B-NP
-Manhattan	B-NP
+Manhattan	 I-NP
 Bank	I-NP
 Chairman	I-NP
 Willard	I-NP
@@ -49428,7 +49428,7 @@ policy-making	I-NP
 There	B-NP
 are	O
 some	B-NP
-very	O
+very	 I-NP
 significant	I-NP
 issues	I-NP
 out	O
@@ -49512,7 +49512,7 @@ tried	O
 to	O
 finger	O
 each	B-NP
-other	I-NP
+other	 O
 for	O
 the	B-NP
 blame	I-NP
@@ -49566,7 +49566,7 @@ this	B-NP
 By	O
 11:59	B-NP
 p.m.	I-NP
-tonight	B-NP
+tonight	 I-NP
 ,	O
 President	B-NP
 Bush	I-NP
@@ -49577,8 +49577,8 @@ $	B-NP
 billion	I-NP
 of	O
 automatic	B-NP
-,	O
-across-the-board	B-NP
+,	 I-NP
+across-the-board	 I-NP
 cuts	I-NP
 in	O
 government	B-NP
@@ -49632,8 +49632,8 @@ tough	B-NP
 choices	I-NP
 ,	O
 ''	O
-House	I-NP
-Budget	B-NP
+House	 B-NP
+Budget	 I-NP
 Committee	I-NP
 Chairman	I-NP
 Leon	I-NP
@@ -49733,7 +49733,7 @@ Kudlow	I-NP
 ,	O
 a	B-NP
 Bear	I-NP
-,	O
+,	 I-NP
 Stearns	I-NP
 &	I-NP
 Co.	I-NP
@@ -49742,7 +49742,7 @@ economist	I-NP
 on	O
 ABC	B-NP
 's	B-NP
-``	O
+``	 I-NP
 This	I-NP
 Week	I-NP
 .	O
@@ -49813,7 +49813,7 @@ And	O
 he	B-NP
 has	O
 kept	O
-mum	B-NP
+mum	 O
 on	O
 how	O
 his	B-NP
@@ -49903,7 +49903,7 @@ debate	I-NP
 was	O
 behind	O
 schedule	B-NP
-and	I-NP
+and	 O
 automatic	B-NP
 spending	I-NP
 cuts	I-NP
@@ -49911,7 +49911,7 @@ were	O
 within	O
 days	B-NP
 of	O
-taking	B-NP
+taking	 O
 hold	B-NP
 .	O
 
@@ -49945,9 +49945,9 @@ Reserve	I-NP
 .	O
 
 And	O
-concern	I-NP
+concern	 B-NP
 about	O
-official	I-NP
+official	 B-NP
 actions	I-NP
 aimed	O
 at	O
@@ -50049,7 +50049,7 @@ year	I-NP
 
 Lawmakers	B-NP
 and	O
-administration	I-NP
+administration	 B-NP
 officials	I-NP
 agree	O
 that	O
@@ -50085,7 +50085,7 @@ more	O
 serious	O
 and	O
 more	O
-far-reaching	I-NP
+far-reaching	 O
 than	O
 last	B-NP
 spring	I-NP
@@ -50106,7 +50106,7 @@ of	O
 the	B-NP
 biggest	I-NP
 reasons	I-NP
-that	B-NP
+that	 O
 new	B-NP
 talks	I-NP
 are	O
@@ -50187,7 +50187,7 @@ problem	I-NP
 ''	O
 
 But	O
-administration	I-NP
+administration	 B-NP
 officials	I-NP
 privately	O
 agree	O
@@ -50307,7 +50307,7 @@ clearly	O
 will	O
 take	O
 more	B-NP
-than	I-NP
+than	 O
 Friday	B-NP
 's	B-NP
 190-point	I-NP
@@ -50322,8 +50322,8 @@ have	O
 developed	O
 between	O
 lawmakers	B-NP
-and	I-NP
-White	I-NP
+and	 O
+White	 B-NP
 House	I-NP
 Budget	I-NP
 Director	I-NP
@@ -50378,9 +50378,9 @@ any	B-NP
 so-called	I-NP
 grand	I-NP
 compromise	I-NP
-or	O
+or	 I-NP
 deal	I-NP
-next	I-NP
+next	 B-NP
 year	I-NP
 because	O
 the	B-NP
@@ -50397,7 +50397,7 @@ year	I-NP
 deal	I-NP
 ,	O
 ''	O
-Senate	I-NP
+Senate	 B-NP
 Majority	I-NP
 Leader	I-NP
 George	I-NP
@@ -50414,7 +50414,7 @@ CBS	B-NP
 News	I-NP
 's	B-NP
 ``	O
-Face	B-NP
+Face	 O
 the	B-NP
 Nation	I-NP
 .	O
@@ -50501,7 +50501,7 @@ the	B-NP
 legislation	I-NP
 ,	O
 Oregon	B-NP
-Sen.	B-NP
+Sen.	 I-NP
 Bob	I-NP
 Packwood	I-NP
 ,	O
@@ -50628,7 +50628,7 @@ we	B-NP
 're	O
 serious	O
 about	O
-deficit	I-NP
+deficit	 B-NP
 reduction	I-NP
 ,	O
 and	O
@@ -50662,7 +50662,7 @@ R.	B-NP
 N.H	B-NP
 .	O
 -RRB-	O
-.	B-NP
+.	 O
 said	O
 yesterday	B-NP
 .	O
@@ -50733,7 +50733,7 @@ to	O
 avoid	O
 permanent	B-NP
 across-the-board	I-NP
-cuts	O
+cuts	 I-NP
 ,	O
 but	O
 added	O
@@ -50826,7 +50826,7 @@ capital	B-NP
 gains	I-NP
 .	O
 
-``	B-NP
+``	 O
 Investors	B-NP
 ,	O
 who	B-NP
@@ -50855,7 +50855,7 @@ said	O
 ``	O
 There	B-NP
 have	O
-been	B-NP
+been	 O
 many	B-NP
 preposterous	I-NP
 reasons	I-NP
@@ -50882,8 +50882,8 @@ I	B-NP
 suggest	O
 that	B-NP
 is	O
-perhaps	O
-more	O
+perhaps	 B-NP
+more	 I-NP
 than	O
 any	B-NP
 of	O
@@ -50891,15 +50891,15 @@ the	B-NP
 others	I-NP
 .	O
 
-The	B-NP
-following	I-NP
-U.S.	I-NP
+The	 O
+following	 O
+U.S.	 B-NP
 Treasury	I-NP
 ,	O
-corporate	B-NP
-and	I-NP
-municipal	I-NP
-offerings	I-NP
+corporate	 O
+and	 O
+municipal	 O
+offerings	 B-NP
 are	O
 tentatively	O
 scheduled	O
@@ -50937,7 +50937,7 @@ $	I-NP
 billion	I-NP
 in	O
 maturing	B-NP
-debt	B-NP
+debt	 I-NP
 .	O
 
 $	B-NP
@@ -51014,8 +51014,8 @@ $	B-NP
 250	I-NP
 million	I-NP
 -LRB-	O
-face	B-NP
-amount	I-NP
+face	 O
+amount	 O
 -RRB-	O
 Liquid	B-NP
 Yield	I-NP
@@ -51041,7 +51041,7 @@ shares	I-NP
 ,	O
 via	O
 Goldman	B-NP
-,	O
+,	 I-NP
 Sachs	I-NP
 &	I-NP
 Co	I-NP
@@ -51066,7 +51066,7 @@ CSS	B-NP
 Industries	I-NP
 --	O
 
-1.3	I-NP
+1.3	 B-NP
 million	I-NP
 common	I-NP
 shares	I-NP
@@ -51081,7 +51081,7 @@ Utilities	I-NP
 Associates	I-NP
 --	O
 
-1.5	I-NP
+1.5	 B-NP
 million	I-NP
 common	I-NP
 shares	I-NP
@@ -51126,7 +51126,7 @@ Knowledgeware	B-NP
 Inc.	I-NP
 --	O
 
-2.4	I-NP
+2.4	 B-NP
 million	I-NP
 common	I-NP
 shares	I-NP
@@ -51145,7 +51145,7 @@ million	I-NP
 of	O
 general	B-NP
 obligation	I-NP
-veterans	B-NP
+veterans	 I-NP
 '	B-NP
 tax	I-NP
 notes	I-NP
@@ -51172,7 +51172,7 @@ general	I-NP
 obligation	I-NP
 tax	I-NP
 revenue	I-NP
-notes	B-NP
+notes	 I-NP
 -LRB-	O
 Series	B-NP
 1990A	I-NP
@@ -51226,9 +51226,9 @@ $	B-NP
 million	I-NP
 hotel	I-NP
 occupancy	I-NP
-tax	B-NP
+tax	 I-NP
 revenue	I-NP
-bonds	B-NP
+bonds	 I-NP
 ,	O
 Series	B-NP
 1989A	I-NP
@@ -51293,7 +51293,7 @@ College	B-NP
 Savings	I-NP
 Plan	I-NP
 ,	O
-1989	I-NP
+1989	 B-NP
 Series	I-NP
 B	I-NP
 ,	O
@@ -51322,7 +51322,7 @@ for	O
 Hahnemann	B-NP
 University	I-NP
 ,	O
-Series	I-NP
+Series	 B-NP
 1989	I-NP
 ,	O
 via	O
@@ -51352,8 +51352,8 @@ Corp	I-NP
 University	B-NP
 of	O
 Medicine	B-NP
-And	O
-Dentistry	B-NP
+And	 I-NP
+Dentistry	 I-NP
 of	O
 New	B-NP
 Jersey	I-NP
@@ -51379,7 +51379,7 @@ Parkways	I-NP
 ,	O
 Economic	B-NP
 Development	I-NP
-And	O
+And	 I-NP
 Tourism	I-NP
 Authority	I-NP
 --	O
@@ -51413,7 +51413,7 @@ million	I-NP
 of	O
 gas	B-NP
 and	I-NP
-electric	B-NP
+electric	 I-NP
 revenue	I-NP
 refunding	I-NP
 bonds	I-NP
@@ -51447,10 +51447,10 @@ bonds	I-NP
 via	O
 a	B-NP
 Dougherty	I-NP
-,	O
-Dawkins	B-NP
-,	O
-Strand	B-NP
+,	 I-NP
+Dawkins	 I-NP
+,	 I-NP
+Strand	 I-NP
 &	I-NP
 Yost	I-NP
 Inc.	I-NP
@@ -51501,7 +51501,7 @@ I	B-NP
 'm	O
 not	O
 losing	O
-faith	O
+faith	 B-NP
 in	O
 the	B-NP
 market	I-NP
@@ -51510,14 +51510,14 @@ market	I-NP
 said	O
 Boston	B-NP
 lawyer	I-NP
-Christopher	B-NP
+Christopher	 I-NP
 Sullivan	I-NP
 as	O
 he	B-NP
 watched	O
 the	B-NP
 market	I-NP
-plunge	I-NP
+plunge	 O
 on	O
 a	B-NP
 big	I-NP
@@ -51536,9 +51536,9 @@ he	B-NP
 not	O
 so	O
 sure	O
-about	B-NP
-everyone	I-NP
-else	I-NP
+about	 O
+everyone	 B-NP
+else	 O
 .	O
 
 ``	O
@@ -51549,7 +51549,7 @@ Monday	B-NP
 the	B-NP
 small	I-NP
 -LRB-	O
-investors	B-NP
+investors	 O
 -RRB-	O
 are	O
 going	O
@@ -51572,7 +51572,7 @@ Corp.	I-NP
 American	I-NP
 Airlines	I-NP
 unit	I-NP
-and	I-NP
+and	 O
 several	B-NP
 mutual	I-NP
 funds	I-NP
@@ -51693,7 +51693,7 @@ discouraged	O
 and	O
 we	B-NP
 gained	O
-that	O
+that	 B-NP
 back	O
 --	O
 and	O
@@ -51706,12 +51706,12 @@ the	B-NP
 annual	I-NP
 congress	I-NP
 of	O
-the	B-NP
-National	I-NP
-Association	I-NP
+the	 O
+National	 O
+Association	 O
 of	O
 Investors	B-NP
-Corp.	I-NP
+Corp.	 B-NP
 at	O
 the	B-NP
 Hyatt	I-NP
@@ -51726,15 +51726,15 @@ was	O
 calm	O
 .	O
 
-Some	O
+Some	 B-NP
 500	I-NP
 investors	I-NP
 representing	O
 investor	B-NP
 clubs	I-NP
 from	O
-around	O
-the	B-NP
+around	 B-NP
+the	 I-NP
 U.S.	I-NP
 were	O
 attending	O
@@ -51761,7 +51761,7 @@ said	O
 no	B-NP
 special	I-NP
 bulletins	I-NP
-or	O
+or	 I-NP
 emergency	I-NP
 meetings	I-NP
 of	O
@@ -51784,8 +51784,8 @@ association	I-NP
 members	I-NP
 --	O
 long-term	B-NP
-,	O
-buy-and-hold	B-NP
+,	 I-NP
+buy-and-hold	 I-NP
 investors	I-NP
 --	O
 welcomed	O
@@ -51812,10 +51812,10 @@ Snyder	I-NP
 a	B-NP
 member	I-NP
 of	O
-a	B-NP
-Los	I-NP
-Angeles	I-NP
-investors	I-NP
+a	 O
+Los	 O
+Angeles	 O
+investors	 B-NP
 '	B-NP
 club	I-NP
 .	O
@@ -51868,7 +51868,7 @@ Friday	B-NP
 's	B-NP
 slide	I-NP
 ,	O
-reluctance	I-NP
+reluctance	 B-NP
 by	O
 banks	B-NP
 to	O
@@ -51892,10 +51892,10 @@ Perkins	I-NP
 ,	O
 a	B-NP
 Tampa	I-NP
-,	O
-Fla.	B-NP
-,	O
-investment	B-NP
+,	 I-NP
+Fla.	 I-NP
+,	 I-NP
+investment	 I-NP
 banker	I-NP
 ,	O
 said	O
@@ -52094,15 +52094,15 @@ to	O
 be	O
 a	B-NP
 lot	I-NP
-more	B-NP
+more	 O
 liquid	O
 .	O
 ''	O
 
 Others	B-NP
 wonder	O
-how	O
-many	B-NP
+how	 B-NP
+many	 I-NP
 more	I-NP
 of	O
 these	B-NP
@@ -52195,7 +52195,7 @@ ready	O
 to	O
 buy	O
 in	O
-``	I-NP
+``	 O
 when	O
 the	B-NP
 panic	I-NP
@@ -52280,7 +52280,7 @@ market	I-NP
 somewhat	O
 but	O
 not	O
-whole	I-NP
+whole	 B-NP
 hog	I-NP
 like	O
 they	B-NP
@@ -52318,7 +52318,7 @@ Scwhab	I-NP
 Corp.	I-NP
 ,	O
 says	O
-Schwab	I-NP
+Schwab	 B-NP
 customers	I-NP
 ``	O
 have	O
@@ -52327,8 +52327,8 @@ neutral	O
 to	O
 cautious	O
 recently	O
-about	I-NP
-stocks	I-NP
+about	 O
+stocks	 B-NP
 .	O
 ''	O
 
@@ -52337,8 +52337,8 @@ investors	I-NP
 are	O
 still	O
 angry	O
-about	I-NP
-program	I-NP
+about	 O
+program	 B-NP
 trading	I-NP
 ,	O
 Mr.	B-NP
@@ -52383,8 +52383,8 @@ But	O
 it	B-NP
 's	O
 not	O
-only	O
-the	B-NP
+only	 B-NP
+the	 I-NP
 stock	I-NP
 market	I-NP
 that	B-NP
@@ -52520,10 +52520,10 @@ Antori	I-NP
 ,	O
 an	B-NP
 Akron	I-NP
-,	O
-Ohio	B-NP
-,	O
-plumbing	B-NP
+,	 I-NP
+Ohio	 I-NP
+,	 I-NP
+plumbing	 I-NP
 contractor	I-NP
 who	B-NP
 was	O
@@ -52547,8 +52547,8 @@ stopped	O
 by	O
 to	O
 see	O
-how	B-NP
-much	B-NP
+how	 O
+much	 O
 I	B-NP
 would	O
 have	O
@@ -52592,13 +52592,13 @@ for	O
 notebook-sized	B-NP
 computers	I-NP
 is	O
-about	B-NP
+about	 O
 to	O
 become	O
 a	B-NP
 lot	I-NP
-more	B-NP
-crowded	I-NP
+more	 O
+crowded	 O
 .	O
 
 Compaq	B-NP
@@ -52623,8 +52623,8 @@ others	B-NP
 in	O
 the	B-NP
 market	I-NP
-,	O
-especially	O
+,	 B-NP
+especially	 I-NP
 Zenith	B-NP
 Electronics	I-NP
 Corp.	I-NP
@@ -52673,12 +52673,12 @@ a	B-NP
 notepad	I-NP
 ,	O
 and	O
-two	I-NP
+two	 B-NP
 others	I-NP
 have	O
 introduced	O
-even	O
-smaller	O
+even	 B-NP
+smaller	 I-NP
 ``	I-NP
 palmtops	I-NP
 .	O
@@ -52694,13 +52694,13 @@ novelties	B-NP
 ,	O
 with	O
 keyboards	B-NP
-only	O
-a	B-NP
+only	 B-NP
+a	 I-NP
 munchkin	I-NP
 could	O
 love	O
 and	O
-screens	O
+screens	 B-NP
 to	O
 match	O
 .	O
@@ -52741,7 +52741,7 @@ and	O
 carry	O
 more	B-NP
 memory	I-NP
-than	I-NP
+than	 O
 anything	B-NP
 else	O
 of	O
@@ -52810,9 +52810,9 @@ portables	B-NP
 that	B-NP
 weigh	O
 approximately	B-NP
-the	B-NP
+the	 I-NP
 same	I-NP
-and	I-NP
+and	 O
 that	B-NP
 are	O
 called	O
@@ -52837,7 +52837,7 @@ inches	I-NP
 thick	O
 ,	O
 takes	O
-exception	I-NP
+exception	 B-NP
 to	O
 the	B-NP
 name	I-NP
@@ -52910,7 +52910,7 @@ to	O
 ``	O
 read	O
 ''	O
-block	I-NP
+block	 B-NP
 printing	I-NP
 .	O
 
@@ -52957,7 +52957,7 @@ Portfolio	I-NP
 introduced	O
 in	O
 Europe	B-NP
-two	I-NP
+two	 B-NP
 months	I-NP
 ago	O
 and	O
@@ -52969,9 +52969,9 @@ early	B-NP
 September	I-NP
 ,	O
 weighs	O
-less	O
-than	O
-a	B-NP
+less	 B-NP
+than	 I-NP
+a	 I-NP
 pound	I-NP
 ,	O
 costs	O
@@ -52995,7 +52995,7 @@ run	O
 some	B-NP
 spreadsheets	I-NP
 and	I-NP
-word	B-NP
+word	 I-NP
 processing	I-NP
 programs	I-NP
 .	O
@@ -53028,10 +53028,10 @@ meanwhile	O
 ,	O
 has	O
 introduced	O
-a	B-NP
-much	I-NP
-more	I-NP
-sophisticated	I-NP
+a	 O
+much	 O
+more	 O
+sophisticated	 B-NP
 palmtop	I-NP
 that	B-NP
 can	O
@@ -53048,7 +53048,7 @@ but	O
 costs	O
 five	B-NP
 times	I-NP
-as	O
+as	 I-NP
 much	I-NP
 .	O
 
@@ -53102,13 +53102,13 @@ The	B-NP
 market	I-NP
 is	O
 so	O
-new	I-NP
+new	 O
 ,	O
 nobody	B-NP
 knows	O
 yet	O
 how	O
-big	B-NP
+big	 O
 it	B-NP
 can	O
 be	O
@@ -53126,12 +53126,12 @@ trying	O
 to	O
 sell	O
 me	B-NP
-services	I-NP
+services	 B-NP
 to	O
 find	O
 out	O
 how	O
-big	B-NP
+big	 O
 it	B-NP
 is	O
 ,	O
@@ -53154,20 +53154,20 @@ it	B-NP
 $	B-NP
 5	I-NP
 billion	I-NP
-or	I-NP
-$	I-NP
+or	 O
+$	 B-NP
 3.5	I-NP
 billion	I-NP
 ,	O
 it	B-NP
 does	O
 n't	O
-matter	I-NP
+matter	 B-NP
 .	O
 
 It	B-NP
 's	O
-huge	B-NP
+huge	 O
 .	O
 ''	O
 
@@ -53191,8 +53191,8 @@ sales	I-NP
 
 Laptops	B-NP
 --	O
-generally	O
-anything	B-NP
+generally	 B-NP
+anything	 I-NP
 under	O
 15	B-NP
 pounds	I-NP
@@ -53245,8 +53245,8 @@ use	B-NP
 of	O
 the	B-NP
 faster	I-NP
-,	O
-more	O
+,	 I-NP
+more	 I-NP
 powerful	I-NP
 microprocessors	I-NP
 found	O
@@ -53265,7 +53265,7 @@ considerations	I-NP
 also	O
 have	O
 limited	O
-screen	I-NP
+screen	 B-NP
 displays	I-NP
 .	O
 
@@ -53322,7 +53322,7 @@ small	O
 --	O
 a	B-NP
 problem	I-NP
-Poquet	I-NP
+Poquet	 B-NP
 also	O
 encountered	O
 in	O
@@ -53346,7 +53346,7 @@ avoid	O
 the	B-NP
 ``	I-NP
 gadget	I-NP
-''	O
+''	 I-NP
 label	I-NP
 ,	O
 responded	O
@@ -53355,7 +53355,7 @@ the	B-NP
 tag	I-NP
 line	I-NP
 ,	O
-``	B-NP
+``	 O
 The	B-NP
 Poquet	I-NP
 PC	I-NP
@@ -53370,9 +53370,9 @@ Computer	I-NP
 Despite	O
 the	B-NP
 sniping	I-NP
-,	I-NP
+,	 O
 few	B-NP
-question	I-NP
+question	 O
 the	B-NP
 inevitability	I-NP
 of	O
@@ -53405,11 +53405,11 @@ center-stage	B-NP
 players	I-NP
 like	O
 Toshiba	B-NP
-,	O
-Zenith	B-NP
-and	O
-now	O
-Compaq	B-NP
+,	 I-NP
+Zenith	 I-NP
+and	 I-NP
+now	 I-NP
+Compaq	 I-NP
 .	O
 
 Compaq	B-NP
@@ -53432,7 +53432,7 @@ which	B-NP
 introduced	O
 in	O
 June	B-NP
-a	I-NP
+a	 B-NP
 computer	I-NP
 that	B-NP
 ,	O
@@ -53460,11 +53460,11 @@ product	I-NP
 is	O
 twice	O
 as	O
-heavy	B-NP
-and	I-NP
-costs	I-NP
+heavy	 O
+and	 O
+costs	 O
 more	B-NP
-than	I-NP
+than	 O
 Compaq	B-NP
 's	B-NP
 .	O
@@ -53537,7 +53537,7 @@ to	O
 Zenith	B-NP
 's	B-NP
 share	I-NP
-and	O
+and	 I-NP
 sales	I-NP
 .	O
 
@@ -53559,8 +53559,8 @@ Canion	I-NP
 Compaq	B-NP
 's	B-NP
 president	I-NP
-and	O
-chief	B-NP
+and	 I-NP
+chief	 I-NP
 executive	I-NP
 officer	I-NP
 ,	O
@@ -53569,14 +53569,14 @@ pointedly	O
 that	O
 Zenith	B-NP
 's	B-NP
-$	I-NP
-2,000	I-NP
-MinisPort	I-NP
+$	 O
+2,000	 O
+MinisPort	 B-NP
 uses	O
 an	B-NP
 ``	I-NP
-unconventional	O
-''	O
+unconventional	 I-NP
+''	 I-NP
 two-inch	I-NP
 floppy	I-NP
 disk	I-NP
@@ -53606,7 +53606,7 @@ Data	I-NP
 Systems	I-NP
 ,	O
 simply	O
-shrugs	I-NP
+shrugs	 O
 off	O
 such	B-NP
 criticism	I-NP
@@ -53683,7 +53683,7 @@ tell	O
 you	B-NP
 this	B-NP
 is	O
-dynamite	I-NP
+dynamite	 B-NP
 for	O
 Compaq	B-NP
 and	O
@@ -53691,7 +53691,7 @@ a	B-NP
 stopper	I-NP
 for	O
 everyone	B-NP
-else	I-NP
+else	 O
 ,	O
 ''	O
 says	O
@@ -53706,8 +53706,8 @@ Management	I-NP
 Inc	I-NP
 .	O
 
-Adds	B-NP
-Bill	I-NP
+Adds	 O
+Bill	 B-NP
 Lempesis	I-NP
 ,	O
 senior	B-NP
@@ -53729,7 +53729,7 @@ think	O
 that	O
 these	B-NP
 are	O
-very	O
+very	 B-NP
 hot	I-NP
 products	I-NP
 .	O
@@ -53773,8 +53773,8 @@ screen	I-NP
 that	B-NP
 is	O
 only	O
-1\/4-inch	I-NP
-thick	I-NP
+1\/4-inch	 O
+thick	 O
 and	O
 an	B-NP
 internal	I-NP
@@ -53839,12 +53839,12 @@ in	O
 the	B-NP
 same	I-NP
 weight	I-NP
-class	B-NP
+class	 I-NP
 but	O
 is	O
 much	O
 slower	O
-and	I-NP
+and	 O
 has	O
 less	B-NP
 memory	I-NP
@@ -53867,11 +53867,11 @@ almost	B-NP
 twice	I-NP
 as	O
 much	B-NP
-and	I-NP
+and	 O
 is	O
 three	B-NP
-times	O
-the	B-NP
+times	 I-NP
+the	 I-NP
 size	I-NP
 .	O
 
@@ -53899,7 +53899,7 @@ of	O
 ,	O
 but	O
 by	O
-then	O
+then	 B-NP
 ,	O
 analysts	B-NP
 say	O
@@ -54004,7 +54004,7 @@ Air	I-NP
 Force	I-NP
 contract	I-NP
 for	O
-developing	B-NP
+developing	 O
 cable	B-NP
 systems	I-NP
 for	O
@@ -54077,7 +54077,7 @@ index	I-NP
 to	O
 shoot	O
 up	O
-1.1	I-NP
+1.1	 B-NP
 %	I-NP
 from	O
 the	B-NP
@@ -54134,7 +54134,7 @@ a	B-NP
 base	I-NP
 of	O
 100	B-NP
-set	I-NP
+set	 O
 in	O
 1983	B-NP
 and	O
@@ -54164,7 +54164,7 @@ the	B-NP
 initial	I-NP
 3	I-NP
 %	I-NP
-inflation	B-NP
+inflation	 I-NP
 goal	I-NP
 set	O
 by	O
@@ -54179,7 +54179,7 @@ Gonzalez	I-NP
 and	O
 the	B-NP
 second	I-NP
-,	O
+,	 I-NP
 revised	I-NP
 goal	I-NP
 of	O
@@ -54235,7 +54235,7 @@ of	O
 100	B-NP
 .	O
 
-Plunge	I-NP
+Plunge	 B-NP
 ?	O
 
 What	B-NP
@@ -54272,7 +54272,7 @@ of	O
 utilities	B-NP
 held	O
 up	O
-relatively	I-NP
+relatively	 O
 better	O
 than	O
 other	B-NP
@@ -54425,7 +54425,7 @@ of	O
 national	B-NP
 over-the-counter	I-NP
 trading	I-NP
-Friday	I-NP
+Friday	 B-NP
 .	O
 
 Shares	B-NP
@@ -54454,7 +54454,7 @@ $	I-NP
 offering	I-NP
 price	I-NP
 and	O
-shares	I-NP
+shares	 B-NP
 of	O
 Employee	B-NP
 Benefit	I-NP
@@ -54542,8 +54542,8 @@ acquisition	I-NP
 of	O
 as	B-NP
 much	I-NP
-as	I-NP
-15	I-NP
+as	 O
+15	 B-NP
 %	I-NP
 of	O
 Jaguar	B-NP
@@ -54565,8 +54565,8 @@ to	O
 buy	O
 as	B-NP
 much	I-NP
-as	I-NP
-15	I-NP
+as	 O
+15	 B-NP
 %	I-NP
 of	O
 the	B-NP
@@ -54604,7 +54604,7 @@ before	O
 Ford	B-NP
 began	O
 buying	O
-shares	I-NP
+shares	 B-NP
 .	O
 
 GM	B-NP
@@ -54635,7 +54635,7 @@ is	O
 ,	O
 ``	O
 on	O
-margin	I-NP
+margin	 B-NP
 ''	O
 --	O
 may	O
@@ -54775,10 +54775,10 @@ have	O
 been	O
 higher	O
 than	O
-usual	O
+usual	 B-NP
 ,	O
 but	O
-reasonable	B-NP
+reasonable	 O
 ,	O
 ''	O
 a	B-NP
@@ -54800,14 +54800,14 @@ officials	I-NP
 do	O
 n't	O
 expect	O
--LCB-	B-NP
-margin	I-NP
+-LCB-	 O
+margin	 B-NP
 calls	I-NP
 -RCB-	O
 to	O
 be	O
-as	O
-big	O
+as	 B-NP
+big	 I-NP
 a	I-NP
 factor	I-NP
 as	O
@@ -54820,7 +54820,7 @@ individual	I-NP
 investors	I-NP
 are	O
 buying	O
-stock	I-NP
+stock	 B-NP
 on	O
 margin	B-NP
 ,	O
@@ -54867,8 +54867,8 @@ He	B-NP
 said	O
 Schwab	B-NP
 had	O
-increased	B-NP
-margin	I-NP
+increased	 O
+margin	 B-NP
 requirements	I-NP
 ``	O
 so	O
@@ -54892,7 +54892,7 @@ lesson	I-NP
 in	O
 1987	B-NP
 about	O
-volatility	I-NP
+volatility	 B-NP
 .	O
 
 Avis	B-NP
@@ -54921,10 +54921,10 @@ airlines	I-NP
 The	B-NP
 Garden	I-NP
 City	I-NP
-,	O
-N.Y.	B-NP
-,	O
-car-rental	B-NP
+,	 I-NP
+N.Y.	 I-NP
+,	 I-NP
+car-rental	 I-NP
 company	I-NP
 said	O
 it	B-NP
@@ -54973,7 +54973,7 @@ Corp.	I-NP
 American	I-NP
 Airlines	I-NP
 unit	I-NP
-and	I-NP
+and	 O
 Delta	B-NP
 Air	I-NP
 Lines	I-NP
@@ -54991,12 +54991,12 @@ all	B-NP
 five	I-NP
 programs	I-NP
 at	O
-between	O
-$	B-NP
+between	 B-NP
+$	 I-NP
 8	I-NP
 million	I-NP
 and	I-NP
-$	B-NP
+$	 I-NP
 14	I-NP
 million	I-NP
 .	O
@@ -55017,10 +55017,10 @@ three	I-NP
 airlines	I-NP
 being	O
 dropped	O
-account	I-NP
+account	 O
 for	O
 ``	O
-far	O
+far	 B-NP
 less	O
 than	O
 half	O
