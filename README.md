@@ -1,1 +1,3 @@
-# WSJ
+1. First I created a program (trainingFeatures.py) that takes WSJ_02-21.pos-chunk as input and produced a file consisting of feature value pairs for use with the maxent trainer and classifier. Next I created another program (testFeatures.py) that creates a test feature file (test.feature) from the development corpus (WSJ_24.pos).
+2. I trained and tested in WSJ_24.pos, generated WSJ_24.chunk by training, scored it with WSJ_24.pos-chunk given by the topic, and the F-measure could reach 97.99%.
+3.I created a test.feature file from the test corpus (WSJ_23.pos) and execute step 1.4.1.3 (or 1.4.2.3) to create my final response file (WSJ_23.chunk).
